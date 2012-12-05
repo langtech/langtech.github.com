@@ -71,6 +71,7 @@ GEM
       rack
     rack-test (0.6.2)
       rack (>= 1.0)
+    rake (10.0.2)
     rb-fsevent (0.9.2)
     rb-inotify (0.8.8)
       ffi (>= 0.5.0)
@@ -106,5 +107,6 @@ PLATFORMS
 DEPENDENCIES
   maruku
   middleman (~> 3.0.6)
+  rake
   sass
   slim
