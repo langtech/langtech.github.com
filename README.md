@@ -12,6 +12,8 @@ Installation
 
 1. gem install bundler
 2. bundle install
+3. In "build": git init
+4. In "build": Modify .git/config so it points origin to the langtech repo.
 
 Deployment
 ----------
