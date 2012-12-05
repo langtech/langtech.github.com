@@ -8,6 +8,7 @@ task :deploy do
   puts
   system "middleman build"
   system "touch build/.nojekyll"
+  puts
   cd "build" do
     # puts
     # puts "---- Switching to branch development."
