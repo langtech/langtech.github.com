@@ -7,13 +7,16 @@ task :deploy do
   puts "---- Generating build using middleman."
   puts
   system "middleman build"
+  puts
+  puts "---- Telling it to not use Jekyll."
+  puts
   system "touch build/.nojekyll"
   puts
+  puts "---- Copying CNAME into build."
+  puts
+  puts
+  system "cp CNAME build/"
   cd "build" do
-    # puts
-    # puts "---- Switching to branch development."
-    # puts
-    # system "git checkout master"
     puts
     puts "---- Adding build directory."
     puts
@@ -32,9 +35,5 @@ task :deploy do
     puts "Github Pages deployed."
     puts
   end
-  # puts
-  # puts "---- Switching to branch development."
-  # puts
-  # system "git checkout development"
 end
 task :default => :deploy

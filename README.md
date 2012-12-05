@@ -15,6 +15,12 @@ Installation
 3. In "build": git init
 4. In "build": Modify .git/config so it points origin to the langtech repo.
 
+Locally
+-------
+
+1. middleman
+2. open localhost:4567
+
 Deployment
 ----------
 
