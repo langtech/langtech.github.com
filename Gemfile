@@ -6,6 +6,4 @@ gem 'maruku'
 gem 'sass'
 gem 'slim'
 
-gem 'middleman-smusher'
-
 gem 'rake'
