@@ -37,7 +37,7 @@ This approach is novel in being purely oral.  It sidesteps the problems that ari
 
 More generally, a large audience is interested in safeguarding heritage recordings and making them interpretable by others.  A recording of a grandparent can be digitized and annotated in the same way, in order to ensure long-term preservation and access.
 
-We are in the process of developing an Android prototype application. We have completed a first field test in Papuya New Guinea in February 2012, see below. 
+We are in the process of developing an Android prototype application. We have completed a first field test in Papua New Guinea in February 2012, see below. 
 
 In its current state, the app will have some shortcomings, but show the direction that we are planning to go. We will be uploading newer versions as they become available.
 
