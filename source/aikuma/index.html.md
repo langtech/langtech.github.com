@@ -96,7 +96,7 @@ In some cases, it was easiest if one person held the phone to record another.  T
   Video tag not supported. Download the large video <a href="./videos/recording_others_medium.m4v">here</a>. Download the small video <a href="./videos/recording_others_small.m4v">here</a>.
 </video -->
 
-(Hear this recording translated in the "oral annotation":#oral_annotations section)
+(Hear this recording translated in the [oral annotation](#adding_oral_annotations))
 
 ### Listening
 
