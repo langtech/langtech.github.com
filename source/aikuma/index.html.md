@@ -4,9 +4,11 @@ css: aikuma
 ---
 # Aikuma
 
-## Mobile · Crowdsourced · Distributed · Language Preservation
+## Mobile · Crowdsourced · Distributed · Natural · Language Preservation
 
-* [About](#about)
+The word "Aikuma" means "meeting" in the language with which this project has first been tested: [Usarufa](http://en.wikipedia.org/wiki/Usarufa_language) \[[usa](http://www.ethnologue.com/show_language.asp?code=usa)\].
+
+* [Introduction](#introduction)
 * [Pilot Project](#pilot_project)
 * [Process](#process)
   * [Storytelling](#storytelling)
@@ -21,9 +23,7 @@ css: aikuma
   * [Setup](#setup)
   * [Programming](#programming)
 
-## About
-
-The word "Aikuma" means "meeting" in the language [Usarufa](http://en.wikipedia.org/wiki/Usarufa_language) (ethnologue code "usa"), the language with which this project has first been tested.
+## Introduction
 
 Most of the world's languages are in danger of disappearing.  As people shift to using major world languages, the words and stories of ancestral languages are being lost.  Linguists are working hard to document and describe the world's languages, but there aren't enough linguists to do the work.  The only way it will happen is if the speakers of the languages get involved.
 

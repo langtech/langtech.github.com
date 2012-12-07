@@ -8,17 +8,14 @@
   box-sizing: border-box
 
 body
-  font-size: 16px
-  margin: 0
+  line-height: 1.5em
   padding: 1em
   font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif
   margin: 0em auto
   max-width: 55em
   min-width: 35em
-/*  background: #d4d4d4 url("../images/background.png")*/
 
 a
-  text-decoration: underline
   color: #111
 
   img
@@ -42,10 +39,9 @@ code
   font-family: 'DejaVu Sans Mono', 'Courier New', monospace
   font-size: 0.875em
 
-h1, h2, h3, #footer
-  font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif
-  font-weight: bolder
-  letter-spacing: -0.03em
+h1, h2, h3, h4, #footer
+  font-family: 'grad', serif
+  clear: both
 
 h1
   font-size: 1.8em
@@ -53,11 +49,20 @@ h1
   margin-bottom: 18px
 
 h2
-  font-size: 1.25em
-  margin-bottom: 16px
+  font-size: 1.2em
+  line-height: 24px
+  margin-bottom: 12px
+  border-bottom: 1px solid black
 
 h3
-  font-size: 1.125em
+  font-size: 1.1em
+  line-height: 22px
+  margin-bottom: 11px
+
+h4
+  font-size: 1em
+  line-height: 20px
+  margin-bottom: 10px
 
 p, ul, ol
   margin-bottom: 12px
@@ -90,35 +95,30 @@ header, footer, nav, article
   line-height: 0.875em
 
 #header
-  padding: 0.1em 0.6em 0em
-  background-repeat: no-repeat
-  background-position: right
+  font-family: 'grad', serif
+  border-bottom: 3px double black
+  
+  .project
+    float: right
+    margin-right: 1em
+  
+  ol
+    list-style-type: none
+    padding: 0em
+    margin: 0em
 
-#header ol
-  list-style-type: none
-  padding: 0em
-  margin: 0em
+  li
+    display: inline
+    margin-left: 0.1em
+    padding: 0.3em 0em 1px
 
-#header li
-  display: inline
-  margin-left: 0.1em
-  background-color: white
-  padding: 0.3em 0em 1px
-  background: white
-  border-top-left-radius: 0.2em
-  border-top-right-radius: 0.2em
-  border-color: #111
-  border-left-color: #aaa
-  border-top-color: #777
-  border-width: 1px
-  border-style: solid solid none
-
-#header a
-  padding: 0em 1em
-  text-decoration: none
-
-#header a:hover
-  text-decoration: underline
+    a
+      padding: 0em 1em
+      text-decoration: none
+  
+      &:hover
+        text-decoration: underline
+        color: black
 
 #footer
   font-size: 0.5em
@@ -126,13 +126,5 @@ header, footer, nav, article
   margin-top: 1em
 
 #border
-  border-top: 1px solid #660000
   padding: 15px
   line-height: 1.4em
-
-div.illustration img
-  float: left
-  margin: 5px 10px 10px 0px
-
-div.illustration h3
-  clear: left
