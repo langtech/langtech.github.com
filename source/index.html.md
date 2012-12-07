@@ -3,7 +3,7 @@ title: Language Preservation 2.0
 ---
 # About
 
-*Note* This is just a sample text
+**Note** This is just a sample text
 
 ## Reasons for language endangerment or extinction
 
