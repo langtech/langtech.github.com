@@ -1,20 +1,19 @@
 ---
 title: Language Preservation 2.0
 ---
-# About
 
-**Note** This is just a sample text
+# Language Preservation 2.0
 
-## Reasons for language endangerment or extinction
+Thousands of languages are falling out of use.
+Every time this happens we lose a unique perspective on the world.
+A unique story about how people have lived in a particular place,
+passed down by word of mouth over the generations.
 
-### Endangered Languages
+Language Preservation 2.0 is about applying new research in social media
+to the grand challenge of recording, transcribing, and translating the world's languages.
+New recording technology running on mobile devices helps remnant communities
+to make sure their language can be heard, understood, and learnt by future generations.
+It is the least expensive and most scalable method for archiving hundreds of hours of spoken language.
 
-There are different factors that can put a language in danger of becoming extinct. One is when a language is no longer being taught to the children of the community, or at least to a large number of the children. In these cases, the remaining fluent speakers of the language are generally the older members of the community, and when they pass on, the language dies out with them.
-
-### Children
-
-Child speakers are not enough to ensure the survival of a language however. If the children who do speak the language are relocated to another area where it is not spoken, it becomes endangered. Political and military turmoil can also endanger a language. When people are forced from their homes into new lands, they may have to learn the language of the new area to adapt, and they end up losing their language. Likewise, when a country or territory is successfully invaded, the population may be forced to learn the invader's language.
-
-### Class
-
-A language can also become associated with a lower social class. In this instance, parents will encourage their children to use the language used more often in society to distance themselves from the perceived lower class. Within one or two generations of this occurrence, the language can easily be lost.
+This project is sponsored by the US National Science Foundation, the
+Swiss National Science Foundation, and the Australian Research Council.
