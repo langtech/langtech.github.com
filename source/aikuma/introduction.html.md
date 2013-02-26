@@ -5,7 +5,7 @@ css: aikuma
 
 ## Mobile · Crowdsourced · Distributed · Natural · Language Preservation
 
-A social media based network for crowd sourced language preservation.
+A social media based network application for crowd sourced language preservation.
 
 The word "Aikuma" means "meeting" in the language with which this project has first been tested: [Usarufa](http://en.wikipedia.org/wiki/Usarufa_language) \[[usa](http://www.ethnologue.com/show_language.asp?code=usa)\].
 

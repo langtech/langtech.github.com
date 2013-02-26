@@ -5,7 +5,7 @@ css: aikuma
 
 ## Open Source
 
-Aikuma is fully [open sourced](http://en.wikipedia.org/wiki/Open-source_software) under the [MIT style license](http://en.wikipedia.org/wiki/MIT_License).
+Aikuma is fully [open sourced](http://en.wikipedia.org/wiki/Open-source_software) under the [MIT style license](http://en.wikipedia.org/wiki/MIT_License). It is a Java based Android application.
 
 * Have a look at the [Code](http://github.com/langtech/aikuma).
 * Report [Issues](http://github.com/langtech/aikuma/issues).

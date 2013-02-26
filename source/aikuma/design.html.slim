@@ -1,0 +1,25 @@
+---
+title: Design v2
+css: aikuma
+---
+
+h2 Design Version 2
+
+#design
+  == File.open(File.expand_path('./source/aikuma/_pencil_design.html')) { |file| file.read }
+
+javascript:
+  $(function() {
+    $('#documentTitle').remove();
+    $('#documentMetadata').remove();
+    
+    var content = {
+      main: 'The main page is the starting point \
+             from which any user starts bla bla bla'
+    }
+    
+    $.each(content, function(key, text) {
+      text = text.replace('\n', '<br/>')
+      $('#' + key + '_page .ImageContainer').append('<p class="description">' + text + '</p>')
+    });
+  });
