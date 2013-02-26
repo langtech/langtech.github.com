@@ -14,6 +14,7 @@ html
       #header
         == partial 'header'
       #border
+        == partial './navigation' rescue nil
         == yield
       #footer
         a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"
