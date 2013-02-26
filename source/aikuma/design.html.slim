@@ -16,12 +16,37 @@ javascript:
     $('#documentMetadata').remove();
     
     var content = {
-      main: 'The main page is the starting point \
-             from which any user starts bla bla bla'
+      main: [
+        "The main page is the starting point from which any user starts bla bla bla"
+      ],
+      playing_comment_selected: [
+        "You've clicked on Susie.",
+        "",
+        "The original interview was playing, but now, at the red lines (in the timeline) the replay of the original briefly stops and you hear Susie's comments.",
+        "",
+        "Next: Click on the PLUS to add your own comment, respeaking, or translation."
+      ],
+      playing_recording_comment: [
+        "You've clicked on the plus to add your own comment.",
+        "",
+        "The first red line on the timeline marks the first position you've recorded.",
+        "You are now recording a second comment, at 3:14.",
+        "The second comment is 12 seconds long.",
+        "",
+        "Next: Click on the stop button to finish commenting on this original."
+      ],
+      playing_comment_ok: [
+        "You've clicked the stop button.",
+        "",
+        "Your comment is 0:32 long.",
+        "",
+        "You are now asked to decide whether you want to discard or keep this comment.",
+        "",
+        "Next: Click on the X to discard, or on the check to add metadata to your comment."
+      ]
     }
     
     $.each(content, function(key, text) {
-      text = text.replace('\n', '<br/>')
-      $('#' + key + '_page .ImageContainer').append('<p class="description">' + text + '</p>')
+      $('#' + key + '_page .ImageContainer').append('<p class="description">' + text.join("<br/>") + '</p>')
     });
   });
