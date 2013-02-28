@@ -13,7 +13,7 @@ The word "Aikuma" means "meeting" in the language with which this project has fi
 
 Digital recording technology is cheap, and people can be trained to record their languages.  But in addition to the primary recordings we need some annotations: _metadata_ for identifying the language and documenting permissions, _respeaking_ to provide a clean audio source that is easier for a linguist transcribe phonetically, and _oral translation_ so we know the meaning of the text even once no speakers remain.
 
-Aikuma aims to do these steps as automatically and simply as possible such that *everybody*  can participate.
+Aikuma aims to do these steps as automatically and simply as possible such that *everybody* can participate: Aikuma records date, time, location etc., and aims to be mostly voice driven for respeaking and translation tasks.
 
 ### Links
 
