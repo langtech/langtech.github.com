@@ -9,7 +9,7 @@ Aikuma is a free Android App designed for recording and translating oral literat
 Listen to stories, dialogues and songs, all sorted by language and location.
 Make your own recordings and instantly share them with other Aikuma users over the Web.
 
-A special feature of Aikuma is its translation mode.
+A special feature of Aikuma is its voice-driven translation mode.
 Hold the phone to your ear and listen, and _interrupt_ to give a commentary or translation.
 The phone records what you say and lines it up with the original.
 Now the meaning is also preserved.
