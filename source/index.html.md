@@ -2,7 +2,7 @@
 title: Language Preservation 2.0
 ---
 
-# Language Preservation 2.0
+# Language Preservation 2.0: Crowdsourcing Oral Language Documentation using Mobile Devices
 
 Thousands of languages are falling out of use.
 Every time this happens we lose a unique perspective on the world.
