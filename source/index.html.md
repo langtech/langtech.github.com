@@ -15,7 +15,7 @@ New recording technology running on mobile devices helps remnant communities
 to make sure their language can be heard, understood, and learnt by future generations.
 It is the least expensive and most scalable method for archiving hundreds of hours of spoken language.
 
-The project's first app, [Aikuma](./aikuma/introduction.html), supports voice-activated recording and translation.
+The project's first app, [Aikuma](./aikuma/index.html), supports voice-activated recording and translation.
 The resulting database may one day serve as an audio "Rosetta Stone", making it possible to decipher newly discovered recordings from long-forgotten languages.
 The data we collect will be housed in the [Language Commons](http://archive.org/details/LanguageCommons) a multimedia collection that is part of the Internet Archive.
 
