@@ -14,9 +14,11 @@ Hold the phone to your ear and listen, and _interrupt_ to give a commentary or t
 The phone records what you say and lines it up with the original.
 Now the meaning is also preserved.
 
-The resulting database of recordings aligned with translations will be an audio "Rosetta Stone".
-It will be housed in the [Language Commons](http://archive.org/details/LanguageCommons) a multimedia collection that is part of the Internet Archive, the most credible digital archive on the planet.
-In the future, it should be possible to use this data to decipher newly discovered recordings from long-forgotten languages.
+## Experimental release
+
+* [Download from Google Play](http://play.google.com/store/apps/details?id=au.edu.unimelb.aikuma&feature=\
+search_result#?t=W251bGwsMSwyLDEsImF1LmVkdS51bmltZWxiLmFpa3VtYSJd): install Aikuma on your droid
+* [Issues and Feature Requests](http://github.com/langtech/aikuma/issues)
 
 ## Origin of the name "Aikuma"
 
