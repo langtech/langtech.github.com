@@ -1,18 +1,19 @@
 ---
-title: Open Source
+title: Development
 css: aikuma
 ---
 
-## Open Source
+## Development
 
-Aikuma is fully [open sourced](http://en.wikipedia.org/wiki/Open-source_software) under the [MIT style license](http://en.wikipedia.org/wiki/MIT_License). It is a Java based Android application.
-
-* Have a look at the [Code](http://github.com/langtech/aikuma).
-* Report [Issues](http://github.com/langtech/aikuma/issues).
+Aikuma development is hosted on GitHub.
+Implementation is in Java, for Android 2.3.
+The code is available under the [MIT License](http://en.wikipedia.org/wiki/MIT_License).
 
 ### Current work
 
-We are currently working on replacing our prototype, version 1 (for more details see the [pilot project description](./pilot_project.html)) with a [new design](./design.html), version 2. The new design is based on Android and can run on more modern Android 4 phones (currently adopted by 25% of Android users). Phones are available from 150$.
+We are working on a new prototype, and the interface is set out in a series of [wireframes](./design.html).
+We expect to implement this for the Android 4 platform. (This platform is already adopted by 25% of users and phones are available from $150).
+
 
 * See the [old design in action](./pilot_project.html) in Papua New Guinea, 2012.
 * See the [new design](./design.html) to be used in the next field study (location to be determined).

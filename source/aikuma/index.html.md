@@ -26,6 +26,6 @@ Aikuma means "meeting" in the [Usarufa](http://www.ethnologue.com/language/usa) 
 
 ### Links
 
-* [Open Source](./open_source.html): The source code to Aikuma is available from GitHub under the MIT License.
-* [Pilot Project](./pilot_project): Notes from our first field test in Papua New Guinea.
-* [Aikuma v2](./design.html): Design ideas for version 2.
+* [Development](./development.html): The source code, and our plans
+* [Pilot Project](./pilot_project.html): Notes from our field test in Papua New Guinea.
+* [Aikuma v2](./design.html): Design ideas for the next version.
