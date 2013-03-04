@@ -3,20 +3,27 @@ title: Introduction
 css: aikuma
 ---
 
-## Mobile · Crowdsourced · Distributed · Natural · Language Preservation
+## Crowdsourcing Oral Language Documentation using Mobile Devices
 
-A social media based network application for crowd sourced language preservation.
+Aikuma is a free Android App designed for recording and translating oral literature.
+Listen to stories, dialogues and songs, all sorted by language and location.
+Make your own recordings and instantly share them with other Aikuma users over the Web.
 
-The word "Aikuma" means "meeting" in the language with which this project has first been tested: [Usarufa](http://en.wikipedia.org/wiki/Usarufa_language) \[[usa](http://www.ethnologue.com/show_language.asp?code=usa)\].
+A special feature of Aikuma is its translation mode.
+Hold the phone to your ear and listen, and _interrupt_ to give a commentary or translation.
+The phone records what you say and lines it up with the original.
+Now the meaning is also preserved.
 
-## Introduction
+The resulting database of recordings aligned with translations will be an audio "Rosetta Stone".
+It will be housed in the [Language Commons](http://archive.org/details/LanguageCommons) a multimedia collection that is part of the Internet Archive, the most credible digital archive on the planet.
+In the future, it should be possible to use this data to decipher newly discovered recordings from long-forgotten languages.
 
-Most of the world's languages are in danger of disappearing.  As people shift to using major world languages, the words and stories of ancestral languages are being lost.  Linguists are working hard to document and describe the world's languages, but there aren't enough linguists to do the work.  The only way it will happen is if the speakers of the languages get involved.
+## Origin of the name "Aikuma"
 
-Fortunately, digital recording technology is cheap, and people can be trained to record their languages.  But in addition to the primary recordings we need some annotations: _metadata_ for identifying the language and documenting permissions, _respeaking_ to provide a clean audio source that is easier for a linguist transcribe phonetically, and _oral translation_ so we know the meaning of the text even once no speakers remain.
+Aikuma means "meeting" in the [Usarufa](http://www.ethnologue.com/language/usa) language of New Guinea, where this technology was first tested.
 
 ### Links
 
-* [Open Source](./open_source.html): The source code to Aikuma is fully open sourced under an open license.
-* [Pilot Project](./pilot_project): We have tested the first prototype in the field in Papua New Guinea.
-* [Aikuma v2](./design.html): We are currently working on a new design based on insights from the pilot project.
+* [Open Source](./open_source.html): The source code to Aikuma is available from GitHub under the MIT License.
+* [Pilot Project](./pilot_project): Notes from our first field test in Papua New Guinea.
+* [Aikuma v2](./design.html): Design ideas for version 2.
