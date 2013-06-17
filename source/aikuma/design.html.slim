@@ -22,14 +22,30 @@ javascript:
         "Welcome to the Aikuma main screen. This is the first screen you will see after the introduction.",
         "",
         "The three recordings you are seen are your recordings newsfeed – akin to the Twitter or Facebook newsfeed.",
-        "At the bottom is a quick recording button.",
-        "At the top are three tabs: main (the one you are on), searches, and settings.",
+        "At the top is the navigation: recording, the feed (the page you are on).",
+        "",
+        "There are four tabs that define what is shown below:",
+        "Latest and A-Z show all recordings, in a specific order.",
+        "To Translate and To Transcribe show a selection of recordings that have not yet gone through the Aikuma workflow.",
+        "Either shows where work still needs to be done.",
         "",
         "Next: Click the record button to do a recording or one of the tabs to see what they are about."
       ],
+      main_sync_state_shown: [
+        "After pulling down the list of recordings, you see the current synchronisation state code.",
+        "What does this code mean?",
+        "Recordings are synced between phones.",
+        "If two codes are the same, they contain exactly the same data, and are in sync.",
+        "",
+        "Next: Select a recording or use the navigation at the top."
+      ],
+      record: [
+        "This is the recording screen – click the record button at the bottom.",
+        "(The schematic to tell speakers how to record is not yet included)"
+      ],
       recording: [
         "This is the recording screen – you are currently recording a comment. Don't worry, we aren't recording you right now, but this is what it would look.",
-        "Currently you have recorded 57 seconds worth of material. The meter indicates that you are speaking a bit loudly.",
+        "Currently you have recorded 12 seconds worth of material. The meter indicates that you are speaking a bit loudly.",
         "",
         "Next: Click stop to stop recording."
       ],
@@ -40,14 +56,14 @@ javascript:
         "Then there is the timeline, indicating where you are in listening. You are currently at the beginning.",
         "Then there are several comments/translations/respeakings.",
         "",
-        "Next: Click either the big plus to add your own comment or Susie to listen to her comment (recommended)."
+        "Next: Click either the big recording button to add your own comment/transation etc. or Susie to listen to her comment (recommended)."
       ],
       playing_comment_selected: [
         "You've clicked on Susie.",
         "",
         "The original interview was playing, but now, at the red lines (in the timeline) the replay of the original briefly stops and you hear Susie's comments.",
         "",
-        "Next: Click on the PLUS to add your own comment, respeaking, or translation."
+        "Next: Go back to listening to the original."
       ],
       playing_recording_comment: [
         "You've clicked on the plus to add your own comment.",
@@ -71,15 +87,35 @@ javascript:
         "This is the metadata screen where you enter pertinent information regarding your recording.",
         "",
         "Topmost you can review your recording.",
-        "Then, you can add a description, select languages of this recording, and add speakers in this recording.",
-        "At the bottom there is more automatically collected information, ie. time, date, GPS location.",
+        "Then, you can add speakers you were recording.",
+        "The speaker selection defines what languages can be selected for this recording, just below.",
+        "Usually, there will be only 1 language, already preselected.",
+        "This is followed by an optional description (default is date and time).",
         "",
-        "Next: Click either the X on top, or the checkmark next to it (recommended), or the 'Add Speaker' to add another speaker."
+        "Invisible to you there is more automatically collected information, ie. time, date, GPS location.",
+        "",
+        "Next: Click either the X, or the checkmark next to it (recommended), or the '+' to add another speaker."
+      ],
+      menu: [
+        "This is the menu (it will be shown over whatever content you've clicked it on).",
+        "Choose either search, speakers, or settings."
+      ],
+      speakers: [
+        "This shows all the available speakers.",
+        "",
+        "Next: Add a new speaker, select Oliver to show all of Oliver's recordings or Steven or Florian to go back to adding metadata."
+      ],
+      speaker: [
+        "These are recordings where Ollie spoke.",
+        "",
+        "Next: Go back or navigate using the top action bar."
       ],
       add_speaker: [
         "This is the page to add a new speaker.",
+        "",
         "First, record a good picture of the speaker. Then their name, followed by the languages they speak.",
-        "The languages will be used to preset the language of a recording this speaker is recorded on.",
+        "The default languages are already there, easy to select.",
+        "These languages will be used to help setting the language of a recording this speaker is recorded on.",
         "",
         "Next: Click 'Add Language' or go back via X or checkmark."
       ],
