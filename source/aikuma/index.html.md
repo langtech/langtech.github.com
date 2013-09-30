@@ -19,7 +19,7 @@ search_result#?t=W251bGwsMSwyLDEsImF1LmVkdS51bmltZWxiLmFpa3VtYSJd): install Aiku
 
 * [Development](./development.html): The source code, and our development plans
 * [Pilot Project](./pilot_project.html): Notes from our field test in Papua New Guinea
-* [Aikuma v2](./design.html): Design ideas for the next version
+* [Aikuma Help](./help.html)
 
 ## Origin of the name "Aikuma"
 
