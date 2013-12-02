@@ -24,8 +24,8 @@ Now we initialize a production git repo in build:
       fetch = +refs/heads/*:refs/remotes/origin/*
       url = git@github.com:langtech/langtech.github.com.git
 
-Look and edit website locally
------------------------------
+Look at and edit website locally
+--------------------------------
 
 1. bundle exec middleman
 2. open localhost:4567
