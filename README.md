@@ -22,7 +22,7 @@ Now we initialize a production git repo in build:
 
     [remote "origin"]
       fetch = +refs/heads/*:refs/remotes/origin/*
-      url = git@github.com:langtech/langtech.github.com.git~/temp/langtech.github.com/build
+      url = git@github.com:langtech/langtech.github.com.git
 
 Look and edit website locally
 -----------------------------
