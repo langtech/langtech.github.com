@@ -5,14 +5,14 @@ title: Language Preservation 2.0
 # Language Preservation 2.0: Crowdsourcing Oral Language Documentation using Mobile Devices
 
 Thousands of languages are falling out of use.
-Every time this happens we lose a unique perspective on the world.
-A unique story about how people have lived in a particular place,
-passed down by word of mouth over the generations.
+Every time this happens we lose a unique perspective on the world,
+a unique story about how people have lived in a particular place,
+passed down by word of mouth over generations.
 
 Language Preservation 2.0 is about applying new research in social media
 to the grand challenge of recording, transcribing, and translating the world's languages.
 New recording technology running on mobile devices helps remnant communities
-to make sure their language can be heard, understood, and learnt by future generations.
+to make sure their voices can be heard and understood by future generations.
 It is the least expensive and most scalable method for archiving hundreds of hours of spoken language.
 
 The project's first app, [Aikuma](./aikuma/index.html), supports voice-activated recording and translation.
