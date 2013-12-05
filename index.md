@@ -1,4 +1,5 @@
 ---
+layout: main
 title: Language Preservation 2.0
 ---
 
