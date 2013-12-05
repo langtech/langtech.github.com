@@ -46,7 +46,11 @@ Deploy the website
 
 On a command line, enter:
 
-    git push origin gh-pages
+    git push
+    
+If that doesn't work, try:
+    
+    git push origin master
 
 Troubleshooting
 ---------------
