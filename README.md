@@ -1,7 +1,7 @@
 langtech.github.com
 ===================
 
-Everything is happening in the "gh-pages" branch. 
+Everything is happening in the "master" branch. 
 
 Prerequisites
 -------------
