@@ -1,7 +1,9 @@
 ---
-title: Pilot Project
+layout: main
+title: Aikuma Pilot Project
 css: aikuma
 ---
+{% include aikuma/navigation.html %}
 
 ## Pilot Project
 

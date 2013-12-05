@@ -1,3 +1,10 @@
+---
+layout: main
+title: Aikuma Tutorial
+css: aikuma
+---
+{% include aikuma/navigation.html %}
+
 Aikuma
 ======
 
@@ -30,8 +37,8 @@ Press this button on the main screen, and you will be taken to the following
 screen.
 
 Recording audio can be done in two ways. The first way is to manually press the
-<record button> in order to begin recording. Should you want to pause the
-recording press <this button>.  The second way to record is to use the
+[record button] in order to begin recording. Should you want to pause the
+recording press [this button].  The second way to record is to use the
 proximity detector in the phone in order to activate and pause the recording.
 To initiate recording put the phone to your ear and start speaking. To pause,
 take the phone away.
@@ -46,17 +53,17 @@ Respeaking audio
 ----------------
 
 Aikuma allows you to annotate previously recorded audio files to create new
-audio files referred to as respeakings. To create a respeaking press <button>.
+audio files referred to as respeakings. To create a respeaking press (button).
 You will be presented with a list of all recordings (including other
 respeakings) which you can respeak.
 
-Select one and you will be taken to the Respeaking screen. Press the <button>
+Select one and you will be taken to the Respeaking screen. Press the (button)
 to start hearing the original recording. When you feel it is time to make a
 comment, start talking to the phone. The playing will stop, and it will begin
 recording your voice. When you want to continue hearing the recording, stop
 talking and after a brief pause, the playing of the original audio will resume.
 To pause the playing of hte original without being forced to speak, press
-<button> and resume with <button>.
+(button) and resume with (button).
 
 In a similar fashion to the recording activity, respeaking can be prompted with
 the proximity detector. This allows you to perform the useful cycle of putting
@@ -67,7 +74,7 @@ pause the respeaking again.
 Listening
 ---------
 
-If you want to simply listen to an audio file, press <button> and select the
+If you want to simply listen to an audio file, press (button) and select the
 desired recording from the list. The subsequent activity allows you to toggle
 between playing and pausing and offers a progress bar that can be adjusted by
 touch in order to jump to certain points in the recording.
@@ -76,7 +83,7 @@ Changing User
 -------------
 
 From the main screen, click the button with the photo of the current user, or
-<button>, if there is no photo. You will be taken to a screen that presents you
+(button), if there is no photo. You will be taken to a screen that presents you
 with a list of users, and provides the option of creating a new one.
 
 Syncing

@@ -1,7 +1,9 @@
 ---
+layout: main
 title: Development
 css: aikuma
 ---
+{% include aikuma/navigation.html %}
 
 ## Development
 
