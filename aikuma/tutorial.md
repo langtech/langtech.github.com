@@ -37,8 +37,8 @@ Press this button on the main screen, and you will be taken to the following
 screen.
 
 Recording audio can be done in two ways. The first way is to manually press the
-[record button] in order to begin recording. Should you want to pause the
-recording press [this button].  The second way to record is to use the
+(record button) in order to begin recording. Should you want to pause the
+recording press (this button).  The second way to record is to use the
 proximity detector in the phone in order to activate and pause the recording.
 To initiate recording put the phone to your ear and start speaking. To pause,
 take the phone away.

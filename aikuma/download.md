@@ -1,7 +1,9 @@
 ---
-title: Download
+layout: main
+title: Aikuma Download
 css: aikuma
 ---
+{% include aikuma/navigation.html %}
 
 ## Download
 
