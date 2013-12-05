@@ -43,3 +43,12 @@ Deploy the website
 On a command line, enter:
 
 1. git push origin gh-pages
+
+Troubleshooting
+---------------
+
+Start the server using:
+
+1. bundle exec jekyll serve -w --safe
+
+And see if it renders correctly.
