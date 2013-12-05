@@ -1,0 +1,197 @@
+/* line 3, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+* {
+  margin: 0;
+  padding: 0;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 11, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+body {
+  line-height: 1.4em;
+  padding: 1em;
+  font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-weight: lighter;
+  margin: 0em auto;
+  max-width: 55em;
+  min-width: 35em;
+}
+
+/* line 21, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+a {
+  color: #111;
+}
+/* line 24, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+a img {
+  border-width: 0;
+  float: left;
+  margin-right: 0.125em;
+}
+
+/* line 31, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+img {
+  display: block;
+  margin: auto;
+}
+
+/* line 36, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+blockquote {
+  border-left: 1px solid #222;
+  line-height: 1.125em;
+  font-size: 0.9em;
+  font-style: italic;
+  margin: 1em;
+  padding-left: 0.55em;
+}
+
+/* line 45, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+code {
+  font-family: 'DejaVu Sans Mono', 'Courier New', monospace;
+  font-size: 0.875em;
+}
+
+/* line 50, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+h1, h2, h3, h4, #footer {
+  font-family: 'grad', serif;
+  clear: both;
+}
+
+/* line 55, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+h1 {
+  font-size: 1.8em;
+  line-height: 36px;
+  margin-bottom: 18px;
+}
+
+/* line 61, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+h2 {
+  font-size: 1.2em;
+  line-height: 24px;
+  margin-bottom: 12px;
+  border-bottom: 1px solid black;
+}
+
+/* line 68, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+h3 {
+  font-size: 1.1em;
+  line-height: 22px;
+  margin-bottom: 11px;
+}
+
+/* line 74, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+h4 {
+  font-size: 1em;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+
+/* line 80, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+p, ul, ol {
+  margin-bottom: 0.9em;
+}
+
+/* line 84, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+ul, ol, dd {
+  margin-left: 2em;
+}
+/* line 87, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+ul p, ol p, dd p {
+  margin-bottom: 0px;
+}
+
+/* line 92, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+dt {
+  font-weight: bolder;
+}
+
+/* line 96, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+video {
+  width: 150px;
+}
+
+/* line 98, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+video.playing {
+  width: 100%;
+}
+
+/* html5 */
+/* line 101, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+header, footer, nav, article {
+  display: block;
+}
+
+/* line 103, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+.content {
+  background-color: white;
+}
+
+/* line 105, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+#title {
+  padding-left: 0.2em;
+  padding-top: 0.3em;
+}
+
+/* line 110, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+#writing {
+  font-size: 0.75em;
+  line-height: 0.875em;
+}
+
+/* line 115, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+#header {
+  font-family: 'grad', serif;
+  border-bottom: 3px double black;
+}
+/* line 119, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+#header .project {
+  float: right;
+  margin-right: 1em;
+}
+/* line 124, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+#header ol {
+  list-style-type: none;
+  padding: 0em;
+  margin: 0em;
+}
+/* line 130, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+#header li {
+  display: inline;
+  margin-left: 0.1em;
+  padding: 0.3em 0em 1px;
+}
+/* line 135, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+#header li a {
+  padding: 0em 1em;
+  text-decoration: none;
+}
+/* line 139, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+#header li a:hover {
+  text-decoration: underline;
+  color: black;
+}
+
+/* line 147, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+#footer {
+  font-size: 0.5em;
+  text-align: center;
+  margin-top: 1em;
+}
+
+/* line 153, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+#border {
+  padding: 1em;
+}
+
+/* line 155, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+#subnavigation {
+  margin: 1em 0;
+}
+/* line 158, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+#subnavigation a:first-child {
+  margin: 0 1em 0 0;
+}
+/* line 162, /Users/hanke/temp/langtech.github.com/stylesheets/lp20.scss */
+#subnavigation a {
+  margin: 0 1em;
+}

@@ -1,0 +1,21 @@
+/* line 1, /Users/hanke/temp/langtech.github.com/stylesheets/aikuma.scss */
+img {
+  float: left;
+  margin: 0.6em 1em 0.6em 0;
+}
+
+/* line 7, /Users/hanke/temp/langtech.github.com/stylesheets/aikuma.scss */
+#design img {
+  float: none;
+}
+/* line 9, /Users/hanke/temp/langtech.github.com/stylesheets/aikuma.scss */
+#design .ImageContainer > description {
+  float: right;
+}
+/* line 13, /Users/hanke/temp/langtech.github.com/stylesheets/aikuma.scss */
+#design p {
+  position: relative;
+  left: 420px;
+  top: -782px;
+  width: 410px;
+}
