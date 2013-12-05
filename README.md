@@ -14,41 +14,45 @@ Installation
 
 On a command line, enter:
 
-1. gem install bundler
-2. bundle install
+    gem install bundler
+
+Then:
+
+    bundle install
 
 Look at and edit website locally
 --------------------------------
 
 On a command line, enter:
 
-1. bundle exec jekyll serve -w
+    bundle exec jekyll serve -w
 
 You should see this output:
 
-    be jekyll serve -w
-    Configuration file: /Users/hanke/temp/langtech.github.com/_config.yml
-                Source: /Users/hanke/temp/langtech.github.com
-           Destination: /Users/hanke/temp/langtech.github.com/_site
+    Configuration file: [...]/langtech.github.com/_config.yml
+                Source: [...]/langtech.github.com
+           Destination: [...]/langtech.github.com/_site
           Generating... done.
      Auto-regeneration: enabled
         Server address: http://0.0.0.0:4000
       Server running... press ctrl-c to stop.
 
-2. open localhost:4000
+To open the website, open a browser at [http://localhost:4000](http://localhost:4000):
+
+    open localhost:4000
 
 Deploy the website
 ------------------
 
 On a command line, enter:
 
-1. git push origin gh-pages
+    git push origin gh-pages
 
 Troubleshooting
 ---------------
 
-Start the server using:
+Start the server using the "same" command that Github uses (with safe rendering):
 
-1. bundle exec jekyll serve -w --safe
+    bundle exec jekyll serve -w --safe
 
 And see if it renders correctly.
