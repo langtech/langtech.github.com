@@ -1,7 +1,9 @@
 ---
-title: Home
+layout: main
+title: Aikuma
 css: aikuma
 ---
+{% include aikuma/navigation.html %}
 
 Aikuma is a free Android App designed for recording and translating oral literature.
 Listen to stories, dialogues and songs, all sorted by language and location.
