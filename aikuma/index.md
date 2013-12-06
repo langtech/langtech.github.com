@@ -7,7 +7,7 @@ css: aikuma
 
 ![Aikuma](/images/aikuma.png)
 
-Aikuma is a free Android App designed for recording and translating oral literature.
+Aikuma is a free Android App for recording and translating spoken language.
 Make your own recordings, share them, and translate recordings into other languages.
 
 A special feature of Aikuma is its voice-driven translation mode.
