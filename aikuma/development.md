@@ -7,17 +7,15 @@ css: aikuma
 
 ## Development
 
-Aikuma development is hosted on GitHub.
-Implementation is in Java, for Android 2.3.
-The code is available under the [MIT License](http://en.wikipedia.org/wiki/MIT_License).
+Aikuma development is hosted on [GitHub](http://github.com/langtech/aikuma).
+Implementation is in Java, for Android 4, and available under the [MIT License](http://en.wikipedia.org/wiki/MIT_License).
+We are actively seeking developers to work on the [known issues](http://github.com/langtech/aikuma/issues), or help with new functionality:
 
-### Current work
+* support for video sources, transcription overlay
+* cloud storage, RESTful interface
+* sharing (to facebook, twitter, ...)
+* interfacing to a language archive
+* better iconography, less text
+* integration with transcription tool
 
-We are working on a new prototype, and the interface is set out in a series of [wireframes](./design.html).
-We expect to implement this for the Android 4 platform. (This platform is already adopted by 25% of users and phones are available from $150).
-
-### Get involved
-
-* [Code](http://github.com/langtech/aikuma): Fork Aikuma on GitHub
-* [Issues](http://github.com/langtech/aikuma/issues): Submit issue reports (Github login needed)
-* [Email](mailto:lp20@gmail.com): Contact the developers
+If you would like to help please [contact the developers](mailto:lp20@gmail.com).

@@ -1,43 +1,18 @@
 ---
 layout: main
-title: Aikuma Pilot Project
+title: PNG Pilot Project
 css: aikuma
 ---
 {% include aikuma/navigation.html %}
 
-## Pilot Project
-
-
-* [Process](#process)
-  * [Storytelling](#storytelling)
-  * [User Registration](#user_registration)
-  * [Recording](#recording)
-  * [Recording Others](#recording_others)
-  * [Listening](#listening)
-  * [Adding Oral Annotations](#adding_oral_annotations)
-<!-- * [Interview with the Elders](#interview_with_the_elders) -->
-* [Credits & Thanks](#credits__thanks)
-* [Miscellaneous & Impressions](#miscellaneous__impressions)
-  * [Setup](#setup)
-  * [Programming](#programming)
-
-## Introduction
+## PNG Pilot Project
 
 ![BOLD:PNG Collage](/images/bold-collage.jpg)
 
-A [pilot project](/bold-png/) has used digital voice recorders for large scale audio collection work, and demonstrated a ground-swell of support for using technology for language preservation.
+This project grew out of earlier work in PNG that used digital voice recorders for large scale audio collection.
+Olympus donated 100 voice recorders to the project. For details please see the [BOLD:PNG Project Website](http://boldpng.info/).
 
-In this new project, we will explore ways to use smart phones and 3G networks to enable preservation and access for endangered language data.  The collected materials will be preserved in the _Language Commons_, an open collection of linguistic resources hosted in the Internet Archive.
-
-This approach is novel in being purely oral.  It sidesteps the problems that arise for languages which are not written, and makes it possible to work with people who are not literate in their mother tongue.  It also makes it possible to work quickly, and to capture the most natural and authentic forms of linguistic expression.  Importantly, it gives a voice to marginalized people, and fosters pride in their cultural identity.
-
-More generally, a large audience is interested in safeguarding heritage recordings and making them interpretable by others.  A recording of a grandparent can be digitized and annotated in the same way, in order to ensure long-term preservation and access.
-
-We are in the process of developing an Android prototype application. We have completed a first field test in Papua New Guinea in February 2012, see below. 
-
-In its current state, the app will have some shortcomings, but show the direction that we are planning to go. We will be uploading newer versions as they become available.
-
-## Process
+## PNG Eastern Highlands
 
 We visited the village of Imikori, in the [Usarufa](http://en.wikipedia.org/wiki/Usarufa_language) language area, from 15-18 February 2012.  We trained 10 people to use the Android phones for recording and sharing stories.
 
@@ -148,22 +123,7 @@ For our test subject, both approaches proved to be feasible from a human compute
   Video tag not supported. Download the large video <a href="./videos/interview5_medium.m4v">here</a>. Download the small video <a href="./videos/interview5_small.m4v">here</a>.
 </video -->
 
-## Credits & Thanks
-
-It all would not have been possible without the generous donations of time, effort and lodging by the Usarufa community, particularly the family of Waks Mark.
-
-![Team and People of Imikori](/images/report-png/team.png)
-
-We are grateful to Matt Taylor of SIL PNG for logistical support, and to Andrew Bird for catering and video work.
-
-![Full Project Team](/images/report-png/team2.png)
-
-Thanks!
-  -- Steven Bird and Florian Hanke
-
-## Miscellaneous & Impressions
-
-### Setup
+## Setup
 
 ![Setup](/images/report-png/setup.png)
 
@@ -183,3 +143,14 @@ This configuration was necessary for working off-grid. The software just require
 ![Programming](/images/report-png/programming.png)
 
 Programming for Android during the night to get it ready by the next morning.
+
+## Credits & Thanks
+
+It all would not have been possible without the generous donations of time, effort and lodging by the Usarufa community, particularly the family of Waks Mark.
+
+![Team and People of Imikori](/images/report-png/team.png)
+
+We are grateful to Matt Taylor of SIL PNG for logistical support, and to Andrew Bird for catering and video work.
+
+![Full Project Team](/images/report-png/team2.png)
+
