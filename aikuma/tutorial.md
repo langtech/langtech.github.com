@@ -101,4 +101,5 @@ The synchronisation is never destructive. Any data on the phone that is not on
 the server is transferred to the server, and any data on the server that is not
 on the phone is transferred to the phone.
 
+*This is a test*
 
