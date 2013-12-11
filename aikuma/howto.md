@@ -35,13 +35,13 @@ Add a User
 This is the page that lists all of the users, and where you can add new users. 
 
 ![Users](/images/HowTo/Users.png)
-
+###
 Above you can see that all users are listed with their photograph, name and languages that they speak.
 
 To add a new user click on the large grey button with the user icon at the top of the screen. It will open this menu:
 
 ![New User](/images/HowTo/NewUserEmpty.png)
-
+###
 Sherpa is already listed a language because it has been set as a default language, this is done in the Settings screen (discussed below). To add a new user follow these steps:
 
 1. Add the person's name
@@ -52,13 +52,13 @@ Sherpa is already listed a language because it has been set as a default languag
 The information should now look like this:
 
 ![New User](/images/HowTo/NewUserFull.png)
-
+###
 5. Press the green tick to accept and add the user to the list.
 
 You will notice that the tick only becomes bright green when information is added to each field (name, image, languages). You will not be able to accept the user until all information has been added. This person is now added to our list of users. 
 
 ![Users](/images/HowTo/UsersNew.png)
-
+###
 To go back to the Main screen at any time press the Aikuma logo in the top left-hand corner of the screen.
 
 ###Setting A User's Language###
