@@ -42,6 +42,7 @@ Settings
 ---------- 
 The settings page allows you to set the default languages. It also has setting for synchronising devices after they have been used. Below is a screenshot of the settings page.
 
+
 ![Settings page](/images/HowTo/SettingsPage.png)
 
 
