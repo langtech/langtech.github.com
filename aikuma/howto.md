@@ -44,7 +44,7 @@ The settings page allows you to set the default languages. It also has setting f
 
 
 ![Settings page](/images/HowTo/SettingsPage.png)  
-
+<br/>
 
 ###Setting default languages###
 You are able to set any number of defaul languages that are listed when you create a new user. This is useful if you are working in a community where the majority of people will all have at least one common language. 
@@ -54,12 +54,12 @@ To add a new defaul language, press the "Add Language" button. This will bring u
 
 ![Selecting a Default Language](/images/HowTo/SettingsPageAddingLang.png)  
 
-
+<br/>
 One you have selected a language it will appear in the list of default langauges. 
 
 
 ![Settings page with a default language added](/images/HowTo/SettingsPageLangAdded.png)  
-
+<br/>
 
 You may select as many languages as defaults as you like. 
 
