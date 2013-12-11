@@ -71,5 +71,3 @@ If you have created a central server for the network you can type in the IP addr
 
 
 
-Using Aikuma
-============
