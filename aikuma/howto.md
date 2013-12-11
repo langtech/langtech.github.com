@@ -62,3 +62,4 @@ If you remove a language from the list of default languages it will not change t
 ###Syncing the device to a server###
 This part of the settings page is only relevant if you are using Aikuma as part of a network of devices. 
 If you have created a central server for the network you can type in the IP address and information. 
+'Automatic Sync' can be turned on or off by pressing the button. Pressing 'Sync now' will sync the data on this device with the server only if the correct information has been typed above and there is an available connection.
