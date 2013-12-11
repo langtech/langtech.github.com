@@ -44,7 +44,6 @@ To add a new user click on the large grey button with the user icon at the top o
 
 ![New User](/images/HowTo/NewUserEmpty.png)
 
-###
 
 Sherpa is already listed a language because it has been set as a default language, this is done in the Settings screen (discussed below). To add a new user follow these steps:
 
@@ -56,7 +55,7 @@ Sherpa is already listed a language because it has been set as a default languag
 The information should now look like this:
 
 ![New User](/images/HowTo/NewUserFull.png)
-### ###
+## ##
 
 5. Press the green tick to accept and add the user to the list.
 
