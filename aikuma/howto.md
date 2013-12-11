@@ -36,9 +36,6 @@ This is the page that lists all of the users, and where you can add new users.
 
 ![Users](/images/HowTo/Users.png)
 
-<p class="clear"/>
-</p>
-
 Here you can see that all users are listed with their photograph, name and languages that they speak.
 
 To add a new user click on the large grey button with the user icon at the top of the screen. It will open this menu:
