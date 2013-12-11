@@ -4,7 +4,9 @@ title: Using Aikuma
 css: aikuma
 ---
 {% include aikuma/navigation.html %}
- 
+
+
+
 This guide outlines how to use Aikuma (version 1.0.0-beta.12). The most current version can be
 [downloaded](https://play.google.com/store/apps/details?id=org.lp20.aikuma&amphl=en) from the Google Play store.
 
