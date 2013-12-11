@@ -36,7 +36,6 @@ This is the page that lists all of the users, and where you can add new users.
 
 ![Users](/images/HowTo/Users.png)
 
-<<<<<<< HEAD
 <p class="clear"/> 
 =======
 
