@@ -13,7 +13,13 @@ This guide outlines how to use Aikuma (version 1.0.0-beta.12). The most current 
 
 Main Page 
 ----------
-This is the page that lists all the recordings that have been made. It is also the page you can use to navigate to other features of the app.
+This is the screen you will see when you first open Aikuma. 
+
+From here you can nagivate to other features of the application. 
+
+* The Aikuma logo will always bring you back to this screen when you are in other areas of the application. 
+* The red recording button will take you to the recording page. 
+* The question mark will take you out of the application to the Aikuma website.
 
 
 Add a User 
@@ -50,17 +56,16 @@ You are able to set any number of defaul languages that are listed when you crea
 To add a new defaul language, press the "Add Language" button. This will bring up a list many languages (all languages with an ISO 639-3 code), so use the search box at the top of the page to narrow down the options.
 
 ![Selecting a Default Language](/images/HowTo/SettingsPageAddingLang.png)   
-
+##
 One you have selected a language it will appear in the list of default langauges. 
 
 ![Settings page with a default language added](/images/HowTo/SettingsPageLangAdded.png)  
-
+##
 You may select as many languages as defaults as you like. 
 
 You can remove a default language from the list by pressing the red cross next to the language name.
 
 If you remove a language from the list of default languages it will not change the languages listed for participants you created earlier.
-
 
 ###Syncing the device to a server###
 This part of the settings page is only relevant if you are using Aikuma as part of a network of devices. 
