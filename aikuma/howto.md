@@ -15,7 +15,7 @@ Main Page
 ----------
 This is the screen you will see when you first open Aikuma. You can go to the other parts of the application, and see the list of recordings. 
 
-![Main Screen](Main screen image will go here)
+(main screen image to go here when full of texts)
 
 Using the icons along the top of the screen you can nagivate to other features of the application. 
 These other screens are explained in seperate sections below:
