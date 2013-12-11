@@ -36,18 +36,26 @@ This is the page that lists all of the users, and where you can add new users.
 
 ![Users](/images/HowTo/Users.png)
 
+<<<<<<< HEAD
 <p class="clear"/> 
 =======
 
 Here you can see that all users are listed with their photograph, name and languages that they speak.
+=======
+
+Above you can see that all users are listed with their photograph, name and languages that they speak.
+>>>>>>> parent of 7ea391f... Added a class to the stylesheet so we can optionally prevent text flowing around images.
 
 To add a new user click on the large grey button with the user icon at the top of the screen. It will open this menu:
 
 ![New User](/images/HowTo/NewUserEmpty.png)
 
-Sherpa is already listed a language because it has been set as a default language, this is done in the Settings screen (discussed below).
 
+<<<<<<< HEAD
 To add a new user follow these steps:
+=======
+Sherpa is already listed a language because it has been set as a default language, this is done in the Settings screen (discussed below). To add a new user follow these steps:
+>>>>>>> parent of 7ea391f... Added a class to the stylesheet so we can optionally prevent text flowing around images.
 
 1. Add the person's name
 2. Take a photograph of the person using the mobile phone in the camera. With most phones you will be given the chance to accept the photo, or reject it and try again.  
@@ -58,9 +66,12 @@ The information should now look like this:
 
 ![New User](/images/HowTo/NewUserFull.png)
 
+<<<<<<< HEAD
 <p class="clear"/> 
 =======
 
+=======
+>>>>>>> parent of 7ea391f... Added a class to the stylesheet so we can optionally prevent text flowing around images.
 5. Press the green tick to accept and add the user to the list.
 
 You will notice that the tick only becomes bright green when information is added to each field (name, image, languages). You will not be able to accept the user until all information has been added. This person is now added to our list of users. 
