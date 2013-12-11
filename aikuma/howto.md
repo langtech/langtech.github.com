@@ -57,6 +57,7 @@ To add a new defaul language, press the "Add Language" button. This will bring u
 One you have selected a language it will appear in the list of default langauges. 
 <div>
 ![Settings page with a default language added](/images/HowTo/SettingsPageLangAdded.png)
+</div>
 You may select as many languages as defaults as you like. 
 
 You can remove a default language from the list by pressing the red cross next to the language name.
