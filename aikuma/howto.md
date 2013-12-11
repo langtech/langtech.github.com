@@ -35,14 +35,15 @@ Add a User
 
 This is the page that lists all of the users, and where you can add new users. 
 
-
 ![Users](/images/HowTo/Users.png)
+
 <div class="clear">
 
 Here you can see that all users are listed with their photograph, name and languages that they speak.
 
 To add a new user click on the large grey button with the user icon at the top of the screen. It will open this menu:
 </div>
+
 ![New User](/images/HowTo/NewUserEmpty.png)
 
 Sherpa is already listed a language because it has been set as a default language, this is done in the Settings screen (discussed below). To add a new user follow these steps:
