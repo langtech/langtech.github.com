@@ -1,12 +1,10 @@
 ---
 layout: main
-title: Aikuma Tutorial
+title: Using Aikuma
 css: aikuma
 ---
 {% include aikuma/navigation.html %}
-
-Using Aikuma 
-============ 
+ 
 This guide outlines how to use Aikuma (version 1.0.0-beta.12). The most current version can be
 [downloaded](https://play.google.com/store/apps/details?id=org.lp20.aikuma&amphl=en) from the Google Play store.
 
@@ -24,7 +22,7 @@ These other screens are explained in seperate sections below:
 * The red recording button will take you to the recording screen. You will be able to make a recording.
 * The question mark will take you out of the application to the Aikuma website.
 * The person image will take you to the list of users. You will be able to add a new user
-* the gear is the settings screen. Here you can set the default languages and synching mode.
+* The gear is the settings screen. Here you can set the default languages and synching mode.
 
 The main space on this screen is filled with the list of recordings that have been made by users of the application. 
 As you can see from the list in the image above, this includes an image of the speaker, and the date and duration of the recording. 
