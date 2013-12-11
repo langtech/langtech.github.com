@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Using Aikuma
+title: Aikuma Tutorial
 css: aikuma
 ---
 {% include aikuma/navigation.html %}
