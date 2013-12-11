@@ -41,23 +41,23 @@ This is where you can record stories
 Settings 
 ---------- 
 The settings page allows you to set the default languages. It also has setting for synchronising devices after they have been used. Below is a screenshot of the settings page.
-<div>
+
 ![Settings page](/images/HowTo/SettingsPage.png)
-</div>
+
 
 ###Setting default languages###
 You are able to set any number of defaul languages that are listed when you create a new user. This is useful if you are working in a community where the majority of people will all have at least one common language. 
 
 To add a new defaul language, press the "Add Language" button. This will bring up a list many languages (all languages with an ISO 639-3 code), so use the search box at the top of the page to narrow down the options.
 
-<div>
 ![Selecting a Default Language](/images/HowTo/SettingsPageAddingLang.png)
-</div>
+
 
 One you have selected a language it will appear in the list of default langauges. 
-<div>
+
 ![Settings page with a default language added](/images/HowTo/SettingsPageLangAdded.png)
-</div>
+
+
 You may select as many languages as defaults as you like. 
 
 You can remove a default language from the list by pressing the red cross next to the language name.
