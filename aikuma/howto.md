@@ -56,8 +56,7 @@ Sherpa is already listed a language because it has been set as a default languag
 The information should now look like this:
 
 ![New User](/images/HowTo/NewUserFull.png)
-
-###
+### ###
 
 5. Press the green tick to accept and add the user to the list.
 
