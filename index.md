@@ -21,6 +21,8 @@ The resulting database may one day serve as an audio "Rosetta Stone",
 making it possible to decipher newly discovered recordings from long-forgotten languages.
 The data we collect will be housed in the [Language Commons](http://archive.org/details/LanguageCommons) a multimedia collection that is part of the Internet Archive.
 
+Aikuma won the Grand Prize in the Open Source Software World Challenge 2013 \[[news story](http://www.theage.com.au/national/education/voice/digital-rosetta-stone-wins-software-challenge-20131209-2z0f7.html)\].
+
 [More about Aikuma...](/aikuma/)
 
 ---
