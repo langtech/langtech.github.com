@@ -39,9 +39,13 @@ This is the page that lists all of the users, and where you can add new users.
 
 Here you can see that all users are listed with their photograph, name and languages that they speak.
 
+<p class="clear"/>
+
 To add a new user click on the large grey button with the user icon at the top of the screen. It will open this menu:
 
 ![New User](/images/HowTo/NewUserEmpty.png)
+
+<p class="clear"/>
 
 Sherpa is already listed a language because it has been set as a default language, this is done in the Settings screen (discussed below). To add a new user follow these steps:
 
@@ -54,12 +58,15 @@ The information should now look like this:
 
 ![New User](/images/HowTo/NewUserFull.png)
 
+<p class="clear"/>
+
 5. Press the green tick to accept and add the user to the list.
 
 You will notice that the tick only becomes bright green when information is added to each field (name, image, languages). You will not be able to accept the user until all information has been added. This person is now added to our list of users. 
 
 ![Users](/images/HowTo/UsersNew.png)
 
+<p class="clear"/>
 
 To go back to the Main screen at any time press the Aikuma logo in the top left-hand corner of the screen.
 
@@ -70,10 +77,13 @@ If you press the "Add ISO 639-3 Language" button you will be taken into the full
 
 ![Selecting a Default Language](/images/HowTo/SettingsPageAddingLang.png)
 
+ <p class="clear"/>
+
 You can also set a custom language if the language you speak does not exist in the ISO 639-3 list. For example there is no distinction in the codes for Traditional Tiwi or Modern Tiwi (Australia), so speakers of Modern Tiwi might add it as a custom language. 
 
 ![Add a custom language](/images/HowTo/AddCustom.png)
 
+<p class="clear"/>
 
 Afer a custom language it has been added it will appear in the list for that speaker.  
 
@@ -104,8 +114,9 @@ To add a new defaul language, press the "Add Language" button. This will bring u
 
 ![Selecting a Default Language](/images/HowTo/SettingsPageAddingLang.png)
 
+<p class="clear"/>
 
-One you have selected a language it will appear in the list of default langauges. 
+Once you have selected a language it will appear in the list of default langauges. 
 
 ![Settings page with a default language added](/images/HowTo/SettingsPageLangAdded.png)  
 
