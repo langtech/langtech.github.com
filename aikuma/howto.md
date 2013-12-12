@@ -68,6 +68,8 @@ Your recording will now appear in the list on the main screen, with the date, du
 
 ![Recording information added](/images/HowTo/AddingInfo.png)
 
+<p class="clear"/>
+
 To go back to the Main screen at any time press the Aikuma logo in the top left-hand corner of the screen.
 
 
@@ -217,3 +219,13 @@ If you have created a central server for the network you can type in the IP addr
 'Automatic Sync' can be turned on or off by pressing the button. Pressing 'Sync now' will sync the data on this device with the server only if the correct information has been typed above and there is an available connection.
 
 To go back to the Main screen at any time press the Aikuma logo in the top left-hand corner of the screen.
+
+Updating Aikuma 
+---------------
+If you have downloaded Aikuma through the Google Play Store, you will be notified when a new version is available. We recommend you update to newer versions where possible, and this tutorial will always show how to use the most current version.
+
+When you download a new version it will ask you to delete the old version. This is absolutely fine to do. You will not lose any recordings. All recordings and users will be available when you open the new version of Aikuma. 
+
+Credits
+-------
+Images: The profile pictures used in this tutorial come from wikipedia and are available under a Creative Commons license. [Woman 1](http://en.wikipedia.org/wiki/File:Chhurim,_first_women_to_climb_mt._everest_twice_in_the_same_season.jpg), [Woman 2](http://commons.wikimedia.org/wiki/File:Tamang_woman.jpg), [Man 1](http://commons.wikimedia.org/wiki/File:Apa_Sherpa.jpg) and [Man 2](http://commons.wikimedia.org/wiki/File:Buddhist_Lama_of_the_Tamang_People,_Tistung,_Nepal.jpg)
