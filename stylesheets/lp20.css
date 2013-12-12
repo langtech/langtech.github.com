@@ -33,9 +33,12 @@ a img {
 img {
   display: block;
   margin: auto;
+  border-style: solid;
+  border-width: 1px;
+  border-color: silver;
 }
 
-/* line 36, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 39, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 blockquote {
   border-left: 1px solid #222;
   line-height: 1.125em;
@@ -45,26 +48,26 @@ blockquote {
   padding-left: 0.55em;
 }
 
-/* line 45, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 48, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 code {
   font-family: 'DejaVu Sans Mono', 'Courier New', monospace;
   font-size: 0.875em;
 }
 
-/* line 50, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 53, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 h1, h2, h3, h4, #footer {
   font-family: 'grad', serif;
   clear: both;
 }
 
-/* line 55, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 58, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 h1 {
   font-size: 1.8em;
   line-height: 36px;
   margin-bottom: 18px;
 }
 
-/* line 61, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 64, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 h2 {
   font-size: 1.2em;
   line-height: 24px;
@@ -72,126 +75,132 @@ h2 {
   border-bottom: 1px solid black;
 }
 
-/* line 68, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 71, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 h3 {
   font-size: 1.1em;
   line-height: 22px;
   margin-bottom: 11px;
 }
 
-/* line 74, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 77, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 h4 {
   font-size: 1em;
   line-height: 20px;
   margin-bottom: 10px;
 }
 
-/* line 80, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 83, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 p, ul, ol {
   margin-bottom: 0.9em;
 }
 
-/* line 84, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 87, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 ul, ol, dd {
   margin-left: 2em;
 }
-/* line 87, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 90, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 ul p, ol p, dd p {
   margin-bottom: 0px;
 }
 
-/* line 92, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 95, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 dt {
   font-weight: bolder;
 }
 
-/* line 96, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 99, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 video {
   width: 150px;
 }
 
-/* line 98, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 101, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 video.playing {
   width: 100%;
 }
 
 /* html5 */
-/* line 101, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 104, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 header, footer, nav, article {
   display: block;
 }
 
-/* line 103, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 106, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 .content {
   background-color: white;
 }
 
-/* line 105, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 108, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 #title {
   padding-left: 0.2em;
   padding-top: 0.3em;
 }
 
-/* line 110, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 113, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 #writing {
   font-size: 0.75em;
   line-height: 0.875em;
 }
 
-/* line 115, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 118, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 #header {
   font-family: 'grad', serif;
   border-bottom: 3px double black;
 }
-/* line 119, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 122, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 #header .project {
   float: right;
   margin-right: 1em;
 }
-/* line 124, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 127, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 #header ol {
   list-style-type: none;
   padding: 0em;
   margin: 0em;
 }
-/* line 130, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 133, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 #header li {
   display: inline;
   margin-left: 0.1em;
   padding: 0.3em 0em 1px;
 }
-/* line 135, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 138, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 #header li a {
   padding: 0em 1em;
   text-decoration: none;
 }
-/* line 139, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 142, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 #header li a:hover {
   text-decoration: underline;
   color: black;
 }
 
-/* line 147, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 150, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 #footer {
   font-size: 0.5em;
   text-align: center;
   margin-top: 1em;
 }
 
-/* line 153, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 156, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 #border {
   padding: 1em;
 }
 
-/* line 155, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 158, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 #subnavigation {
   margin: 1em 0;
 }
-/* line 158, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 161, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 #subnavigation a:first-child {
   margin: 0 1em 0 0;
 }
-/* line 162, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+/* line 165, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
 #subnavigation a {
   margin: 0 1em;
+}
+
+/* line 171, /Users/sb/git/langtech.github.com/stylesheets/lp20.scss */
+.clear {
+  clear: both;
+  margin-bottom: 1px;
 }
