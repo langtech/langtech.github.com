@@ -14,6 +14,8 @@ We are actively seeking developers to work on the [known issues](http://github.c
 * support for video sources, transcription overlay
 * cloud storage, RESTful interface
 * sharing (to facebook, twitter, ...)
+* creating and exporting playlists
+* proximity search
 * interfacing to a language archive
 * better iconography, less text
 * integration with transcription tool
