@@ -40,6 +40,8 @@ It will bring up this screen:
 
 ![Recording](/images/HowTo/NewRecording.png)
 
+<p class="clear"/>
+
 You can record in one of two different ways. 
 1. Press the record button. There will be two short beeps and then you can begin to talk.
 2. Hold the phone up to your ear, you will hear the two short beeps and then you can begin to talk.
@@ -49,6 +51,8 @@ To stop recording either hit the pause button or lower the phone from your ear. 
 Once your recording is complete press the save button. This is the image of the disk above the recording button. This will take you into the save screen:
 
 ![Adding recording information](/images/HowTo/ListeningNew.png)
+
+<p class="clear"/>
 
 At the top you can listen back to the recording by pressing play. You can stop the recording by pressing the button again. You can move along the recording by dragging the blue dot along the timeline.
 
@@ -74,6 +78,7 @@ When you select a recording from the list on the Main screen you will be taken t
 
 ![Listening to recording](/images/HowTo/ListenfromList.png)
 
+<p class="clear"/>
 
 ###Adding a Commentary###
 As well as listening to the recording you can choose to add a commentary. This could be involve respeaking the recording slower and more clearly, or to translating the recording into another language that you speak. You could also give additional information about the content of the recording. These recordings are useful for helping share you language with members of your community, or with other communities. 
@@ -85,16 +90,26 @@ When you enter the Thumb commentary mode you will see a green playbutton on the 
 
 ![Thumb Commentary](/images/HowTo/ThumbComments.png)
 
+<p class="clear"/>
+
 Play a short section of the recording with the green button, then press the red button to record a translation, respeaking or commentary for that section. Repeat the listening to small segments and recording until the end of the recording.  
 
 ###Voice-activated Commentary###
 The second way of adding commentary is to use the "Voice-activated commentary. When you enter this option a box will appear and fill with red or green. 
 
+<p class="clear"/>
+
 ![Sensitivity Meter](/images/HowTo/Sensitivity.png)
+
+<p class="clear"/>
 
 This is the phone testing how noisy the environment is so that it can recognise your voice. When this process is completed you will then see this screen.
 
+<p class="clear"/>
+
 ![Sensitivity Meter](/images/HowTo/VoiceCommentsScreen.png)
+
+<p class="clear"/>
 
 At the bottom of the screen is the voice sensitivity slider. When you start using the voice-activated commentary you may find that the phone does not stop the recording when you speak, which means the sensitivity is set too low. You may find that it keeps stopping even when you are quiet, which means the sensitivity is set too high. The sensitivity meter should have done a pretty good job of figuring our the setting, but you may need to move the blue dot along the sliding scale to adjust it. Moving the blue dot to the left will make it less sensitive, and moving it to the right will make it more sensitive.
 
@@ -107,6 +122,8 @@ Add a User
 This is the page that lists all of the users, and where you can add new users. 
 
 ![Users](/images/HowTo/Users.png)
+
+<p class="clear"/>
 
 Here you can see that all users are listed with their photograph, name and languages that they speak.
 
