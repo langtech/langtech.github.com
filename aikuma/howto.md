@@ -28,6 +28,94 @@ These other screens are explained in seperate sections below:
 
 The main space on this screen is filled with the list of recordings that have been made by users of the application. 
 As you can see from the list in the image above, this includes an image of the speaker, and the date and duration of the recording. 
+You can select a recording to listen to it or add commentary. This is explained in the Playback section below. 
+
+
+Record
+-------
+
+Press the record button on home screen
+
+It will bring up this screen: 
+
+![Recording](/images/HowTo/NewRecording.png)
+
+<p class="clear"/>
+
+You can record in one of two different ways. 
+1. Press the record button. There will be two short beeps and then you can begin to talk.
+2. Hold the phone up to your ear, you will hear the two short beeps and then you can begin to talk.
+
+To stop recording either hit the pause button or lower the phone from your ear. You will be able to see how long the recording is at the top of the screen. You can continue the recording by following either of the two ways discussed above. 
+
+Once your recording is complete press the save button. This is the image of the disk above the recording button. This will take you into the save screen:
+
+![Adding recording information](/images/HowTo/ListeningNew.png)
+
+<p class="clear"/>
+
+At the top you can listen back to the recording by pressing play. You can stop the recording by pressing the button again. You can move along the recording by dragging the blue dot along the timeline.
+
+To save a recording you must add at least speaker. Do this by pressing on the user image. This will take you to your User page (discussed below). You can select one of the users already in your list, or create a new user (the process for this is discussed in the Users section below).You can add more than one speaker.
+
+After you have added at least one speaker choose what languages are spoken in the recording. All of the languages listed for the person or persons you have added will appear in the list with ticks next to each one. Untick the languages that do not appear in the recording.
+
+Once you have added at least one speaker and selected the languages in the recording the tick at the bottom of the page will become green and you can save the recording. The screen will remind you that your recording will be shared with everybody, if you do not want your recording shared you will have to delete it. 
+
+Pressing the large red cross at the bottom of the screen will save the recording to your collection. Pressing the red cross will give you the option to discard the recording. 
+
+Your recording will now appear in the list on the main screen, with the date, duration and the image of the people in the recording.
+
+![Recording information added](/images/HowTo/AddingInfo.png)
+
+<p class="clear"/>
+
+To go back to the Main screen at any time press the Aikuma logo in the top left-hand corner of the screen.
+
+
+Playback
+---------
+
+When you select a recording from the list on the Main screen you will be taken to this playback screen. It contains the recording date, duration and any speakers from the recording. Pressing the play button will start the recording, and pressing the same button again will pause it, you can drag the blue dot anywhere along the timeline to skip to another part of the recording.
+
+![Listening to recording](/images/HowTo/ListenfromList.png)
+
+<p class="clear"/>
+
+###Adding a Commentary###
+As well as listening to the recording you can choose to add a commentary. This could be involve respeaking the recording slower and more clearly, or to translating the recording into another language that you speak. You could also give additional information about the content of the recording. These recordings are useful for helping share you language with members of your community, or with other communities. 
+
+There are two ways to add a commentary. These are both listed on the bottom of the screen. The first is "Thumb commentary", where you use the touch screen to move through the recording. The second is "Voice-activated commentary" where you hold the phone to your ear and interrupt the recording with your voice. These two options are explained in more detail below.
+
+###Thumb Commentary###
+When you enter the Thumb commentary mode you will see a green playbutton on the left and a red record button on the right. Use your thumbs to navigate these two buttons. 
+
+![Thumb Commentary](/images/HowTo/ThumbComments.png)
+
+<p class="clear"/>
+
+Play a short section of the recording with the green button, then press the red button to record a translation, respeaking or commentary for that section. Repeat the listening to small segments and recording until the end of the recording.  
+
+###Voice-activated Commentary###
+The second way of adding commentary is to use the "Voice-activated commentary. When you enter this option a box will appear and fill with red or green. 
+
+<p class="clear"/>
+
+![Sensitivity Meter](/images/HowTo/Sensitivity.png)
+
+<p class="clear"/>
+
+This is the phone testing how noisy the environment is so that it can recognise your voice. When this process is completed you will then see this screen.
+
+<p class="clear"/>
+
+![Sensitivity Meter](/images/HowTo/VoiceCommentsScreen.png)
+
+<p class="clear"/>
+
+At the bottom of the screen is the voice sensitivity slider. When you start using the voice-activated commentary you may find that the phone does not stop the recording when you speak, which means the sensitivity is set too low. You may find that it keeps stopping even when you are quiet, which means the sensitivity is set too high. The sensitivity meter should have done a pretty good job of figuring our the setting, but you may need to move the blue dot along the sliding scale to adjust it. Moving the blue dot to the left will make it less sensitive, and moving it to the right will make it more sensitive.
+
+Now you can begin to make your recording. Hold the phone up to your ear and listen to the recording. At a convenient break start your translation, respeaking or commentary. The phone will recognise your voice input, stop the original recording and record your voice. When you stop talking the recording will go back a second or two and continue. Do this until the end of the recording, then press the save button. 
 
 
 Add a User 
@@ -36,6 +124,8 @@ Add a User
 This is the page that lists all of the users, and where you can add new users. 
 
 ![Users](/images/HowTo/Users.png)
+
+<p class="clear"/>
 
 Here you can see that all users are listed with their photograph, name and languages that they speak.
 
@@ -91,15 +181,11 @@ To remove a langauge from the list press the red cross next to the language name
 
 To go back to the Main screen at any time press the Aikuma logo in the top left-hand corner of the screen.
 
-Record 
-----------
-This is where you can record stories 
-
-To go back to the Main screen at any time press the Aikuma logo in the top left-hand corner of the screen.
 
 Help 
 ----------
 In the current version of Aikuma the questionmark 'Help' button at the top of the Main screen takes you to the website. There will be a built in help screen in future versions of the application. 
+
 
 Settings 
 ---------- 
@@ -133,3 +219,13 @@ If you have created a central server for the network you can type in the IP addr
 'Automatic Sync' can be turned on or off by pressing the button. Pressing 'Sync now' will sync the data on this device with the server only if the correct information has been typed above and there is an available connection.
 
 To go back to the Main screen at any time press the Aikuma logo in the top left-hand corner of the screen.
+
+Updating Aikuma 
+---------------
+If you have downloaded Aikuma through the Google Play Store, you will be notified when a new version is available. We recommend you update to newer versions where possible, and this tutorial will always show how to use the most current version.
+
+When you download a new version it will ask you to delete the old version. This is absolutely fine to do. You will not lose any recordings. All recordings and users will be available when you open the new version of Aikuma. 
+
+Credits
+-------
+Images: The profile pictures used in this tutorial come from wikipedia and are available under a Creative Commons license. [Woman 1](http://en.wikipedia.org/wiki/File:Chhurim,_first_women_to_climb_mt._everest_twice_in_the_same_season.jpg), [Woman 2](http://commons.wikimedia.org/wiki/File:Tamang_woman.jpg), [Man 1](http://commons.wikimedia.org/wiki/File:Apa_Sherpa.jpg) and [Man 2](http://commons.wikimedia.org/wiki/File:Buddhist_Lama_of_the_Tamang_People,_Tistung,_Nepal.jpg)
