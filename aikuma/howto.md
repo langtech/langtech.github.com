@@ -28,6 +28,65 @@ These other screens are explained in seperate sections below:
 
 The main space on this screen is filled with the list of recordings that have been made by users of the application. 
 As you can see from the list in the image above, this includes an image of the speaker, and the date and duration of the recording. 
+You can select a recording to listen to it or add commentary. This is explained in the Playback section below. 
+
+
+Record
+-------
+
+Press the record button on home screen
+
+It will bring up this screen: 
+
+![Recording](/images/HowTo/NewRecording.png)
+
+You can record in one of two different ways. 
+1. Press the record button. There will be two short beeps and then you can begin to talk.
+2. Hold the phone up to your ear, you will hear the two short beeps and then you can begin to talk.
+
+To stop recording either hit the pause button or lower the phone from your ear. You will be able to see how long the recording is at the top of the screen. You can continue the recording by following either of the two ways discussed above. 
+
+Once your recording is complete press the save button. This is the image of the disk above the recording button. This will take you into the save screen:
+
+![Adding recording information](/images/HowTo/ListeningNew.png)
+
+At the top you can listen back to the recording by pressing play. You can stop the recording by pressing the button again. You can move along the recording by dragging the blue dot along the timeline.
+
+To save a recording you must add at least speaker. Do this by pressing on the user image. This will take you to your User page (discussed below). You can select one of the users already in your list, or create a new user (the process for this is discussed in the Users section below).You can add more than one speaker.
+
+After you have added at least one speaker choose what languages are spoken in the recording. All of the languages listed for the person or persons you have added will appear in the list with ticks next to each one. Untick the languages that do not appear in the recording.
+
+Once you have added at least one speaker and selected the languages in the recording the tick at the bottom of the page will become green and you can save the recording. The screen will remind you that your recording will be shared with everybody, if you do not want your recording shared you will have to delete it. 
+
+Pressing the large red cross at the bottom of the screen will save the recording to your collection. Pressing the red cross will give you the option to discard the recording. 
+
+Your recording will now appear in the list on the main screen, with the date, duration and the image of the people in the recording.
+
+![Recording information added](/images/HowTo/AddingInfo.png)
+
+To go back to the Main screen at any time press the Aikuma logo in the top left-hand corner of the screen.
+
+
+Playback
+---------
+
+![Listening to recording](/images/HowTo/ListenfromList.png)
+
+
+###Listening to a recording###
+This includes information about the file date, duration and images of people in the recording. You can listen back to the recording by pressing play. You can stop the recording by pressing the button again. You can move along the recording by dragging the blue dot along the timeline.
+
+###Adding a Commentary###
+As well as listening to the recording you can choose to add a commentary. This could be involve respeaking the recording slower and more clearly, or to translating the recording into another language that you speak. You could also give additional information about the content of the recording. These recordings are useful for helping share you language with members of your community, or with other communities. 
+
+There are two ways to add a commentary. These are both listed on the bottom of the screen. The first is "Thumb commentary", where you use the touch screen to move through the recording. The second is "Voice-activated commentary" where you hold the phone to your ear and interrupt the recording with your voice. These two options are explained in more detail below.
+
+###Thumb Commentary###
+
+
+
+###Voice-activated Commentary###
+
 
 
 Add a User 
@@ -91,15 +150,11 @@ To remove a langauge from the list press the red cross next to the language name
 
 To go back to the Main screen at any time press the Aikuma logo in the top left-hand corner of the screen.
 
-Record 
-----------
-This is where you can record stories 
-
-To go back to the Main screen at any time press the Aikuma logo in the top left-hand corner of the screen.
 
 Help 
 ----------
 In the current version of Aikuma the questionmark 'Help' button at the top of the Main screen takes you to the website. There will be a built in help screen in future versions of the application. 
+
 
 Settings 
 ---------- 
