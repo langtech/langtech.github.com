@@ -70,11 +70,10 @@ To go back to the Main screen at any time press the Aikuma logo in the top left-
 Playback
 ---------
 
+When you select a recording from the list on the Main screen you will be taken to this playback screen. It contains the recording date, duration and any speakers from the recording. Pressing the play button will start the recording, and pressing the same button again will pause it, you can drag the blue dot anywhere along the timeline to skip to another part of the recording.
+
 ![Listening to recording](/images/HowTo/ListenfromList.png)
 
-
-###Listening to a recording###
-This includes information about the file date, duration and images of people in the recording. You can listen back to the recording by pressing play. You can stop the recording by pressing the button again. You can move along the recording by dragging the blue dot along the timeline.
 
 ###Adding a Commentary###
 As well as listening to the recording you can choose to add a commentary. This could be involve respeaking the recording slower and more clearly, or to translating the recording into another language that you speak. You could also give additional information about the content of the recording. These recordings are useful for helping share you language with members of your community, or with other communities. 
@@ -82,11 +81,24 @@ As well as listening to the recording you can choose to add a commentary. This c
 There are two ways to add a commentary. These are both listed on the bottom of the screen. The first is "Thumb commentary", where you use the touch screen to move through the recording. The second is "Voice-activated commentary" where you hold the phone to your ear and interrupt the recording with your voice. These two options are explained in more detail below.
 
 ###Thumb Commentary###
+When you enter the Thumb commentary mode you will see a green playbutton on the left and a red record button on the right. Use your thumbs to navigate these two buttons. 
 
+![Thumb Commentary](/images/HowTo/ThumbComments.png)
 
+Play a short section of the recording with the green button, then press the red button to record a translation, respeaking or commentary for that section. Repeat the listening to small segments and recording until the end of the recording.  
 
 ###Voice-activated Commentary###
+The second way of adding commentary is to use the "Voice-activated commentary. When you enter this option a box will appear and fill with red or green. 
 
+![Sensitivity Meter](/images/HowTo/Sensitivity.png)
+
+This is the phone testing how noisy the environment is so that it can recognise your voice. When this process is completed you will then see this screen.
+
+![Sensitivity Meter](/images/HowTo/VoiceCommentsScreen.png)
+
+At the bottom of the screen is the voice sensitivity slider. When you start using the voice-activated commentary you may find that the phone does not stop the recording when you speak, which means the sensitivity is set too low. You may find that it keeps stopping even when you are quiet, which means the sensitivity is set too high. The sensitivity meter should have done a pretty good job of figuring our the setting, but you may need to move the blue dot along the sliding scale to adjust it. Moving the blue dot to the left will make it less sensitive, and moving it to the right will make it more sensitive.
+
+Now you can begin to make your recording. Hold the phone up to your ear and listen to the recording. At a convenient break start your translation, respeaking or commentary. The phone will recognise your voice input, stop the original recording and record your voice. When you stop talking the recording will go back a second or two and continue. Do this until the end of the recording, then press the save button. 
 
 
 Add a User 
