@@ -214,7 +214,6 @@ To go back to the [Main screen][Main Screen] at any time press the Aikuma logo i
 ###Syncing the device to a server###
 This part of the settings page is only relevant if you are using Aikuma as part of a network of devices. Clicking on the "Sync Settings" button will take you to this page:
 
->> images of new sync settings page
 ![Sync Settings](/images/HowTo/SyncSettings.png)
 <p class="clear"/>
 
