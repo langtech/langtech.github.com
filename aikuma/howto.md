@@ -22,6 +22,7 @@ Using the icons along the top of the screen you can nagivate to other features o
 These other screens are explained in seperate sections below:
 
 * The Aikuma logo will always bring you back to this screen when you are in other areas of the application. 
+* The red recording button will take you to the [recording screen][#Record]. You will be able to make a recording.
 * The question mark will take you out of the application to the [Aikuma website](http://lp20.org/aikuma/index.html).
 * The person image will take you to the list of [users][Users]. You will be able to add a new user.
 * The gear will take you to the [settings][Settings] screen. Here you can set the default languages and synching mode.
