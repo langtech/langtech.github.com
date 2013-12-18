@@ -79,11 +79,13 @@ To go back to the [Main screen][Main Screen] at any time press the Aikuma logo i
 
 Playback
 ---------
-
-When you select a recording from the list on the Main screen you will be taken to this playback screen. It contains the recording date, duration and any speakers from the recording. Pressing the play button will start the recording, and pressing the same button again will pause it, you can drag the blue dot anywhere along the timeline to skip to another part of the recording. You can turn the volume up or down using your mobile phone volume control (most often located on the side of the phone). 
+###Original recording###
+When you select an original recording from the list on the Main screen you will be taken to this playback screen. It contains the recording date, duration and any speakers from the recording. Pressing the play button will start the recording, and pressing the same button again will pause it, you can drag the blue dot anywhere along the timeline to skip to another part of the recording. You can turn the volume up or down using your mobile phone volume control (most often located on the side of the phone). 
 
 ![Listening to recording](/images/HowTo/ListenfromList.png)
 <p class="clear"/>
+
+If there are other images below the timeline as in the image above this means that there are commentaries on this original recording. You can listen to these by clicking on the picture. You can also access these commentaries via the main menu. Listening to commentaries is discussed in more detail [below][Play Commentary].
 
 ###Adding a Commentary###
 As well as listening to the recording you can choose to add a commentary. This could be involve respeaking the recording slower and more clearly, or to translating the recording into another language that you speak. You could also give additional information about the content of the recording. These recordings are useful for helping share you language with members of your community, or with other communities. 
@@ -117,6 +119,17 @@ At the bottom of the screen is the voice sensitivity slider. When you start usin
 Now you can begin to make your recording. Hold the phone up to your ear and listen to the recording. At a convenient break start your translation, respeaking or commentary. The phone will recognise your voice input, stop the original recording and record your voice. When you stop talking the recording will go back a second or two and continue. Do this until the end of the recording, then press the save button. 
 
 The process for adding information about the saved recording is [the same as discussed above][Save a recording] for an original recording. Your recording will now appear in the list of recordings on the [Main screen][Main Screen].
+
+###Play Commentary###
+You can select a commentary to play from the recording list on the [Main screen][Main Screen] or by selecting it in the playback screen for the original recording. 
+Playing back a commentary will include playing back the segments of the original recording and the commentary. 
+
+![Commentary playback](/images/HowTo/CommentaryPlayback.png)
+<p class="clear"/>
+
+The playback screen for the commentary looks very similar to that for the original recording, but you will notice red lines on the timeline. These are the points in the original recording that the comments were made. The original recording will play, and the blue dot will move along the timeline. When the blue dot gets to a red line that section of commentary will play. The next segment of the original recording will then follow, until the end of the recording. For some commentary recordings the timeline will only appear when the phone is held sideways.
+
+The images of the people in the original recording are at the top of the screen, and the image of the person doing the commentary is below the timeline, outlined in red. If there is more than one commentary recorded the one you are listening to is circled red. You can move to another commentary by clicking on the other image(s). You can return to the original recording through the main screen.
 
 To go back to the [Main screen][Main Screen] at any time press the Aikuma logo in the top left-hand corner of the screen. If you are in the middle of a recording it will ask you if you want to discard it. If you do, press 'Discard', if you don't press 'Cancel' and save the recording before exiting. 
 
