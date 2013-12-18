@@ -48,6 +48,7 @@ You can record in one of two different ways.
 
 To stop recording either press the pause button or lower the phone from your ear. You will be able to see how long the recording is at the top of the screen. You can continue the recording again using either of the two options. 
 
+If you decide you don't want to make the recording, of you've made a recording you do not want press either the back button or the Aikuma homepage button. This will take you back to the [Main screen](#Main Screen).
 
 Once your recording is complete press the save button. This is the image of the disk above the recording button. This will take you into the save screen:
 
@@ -147,7 +148,7 @@ To add a new user click on the large grey button with the user icon at the top o
 ![New User](/images/HowTo/NewUserEmpty.png)
 <p class="clear"/>
 
-Sherpa is already listed a language because it has been set as a default language, this is done in the [Settings](#Setting default languages) screen (discussed below). To add a new user follow these steps:
+Sherpa is already listed a language because it has been set as a default language, this is done in the [Settings](#Default languages) screen (discussed below). To add a new user follow these steps:
 
 1. Add the person's name
 2. Take a photograph of the person using the mobile phone in the camera. You will be given the chance to accept the photo or reject it and try again.  
