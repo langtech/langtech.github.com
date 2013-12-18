@@ -22,14 +22,14 @@ Using the icons along the top of the screen you can nagivate to other features o
 These other screens are explained in seperate sections below:
 
 * The Aikuma logo will always bring you back to this screen when you are in other areas of the application. 
-* The red recording button will take you to the [recording screen][#Record]. You will be able to make a recording.
+* The red recording button will take you to the [recording screen](#Record). You will be able to make a recording.
 * The question mark will take you out of the application to the [Aikuma website](http://lp20.org/aikuma/index.html).
-* The person image will take you to the list of [users][Users]. You will be able to add a new user.
-* The gear will take you to the [settings][Settings] screen. Here you can set the default languages and synching mode.
+* The person image will take you to the list of [users](#Users). You will be able to add a new user.
+* The gear will take you to the [settings](#Settings) screen. Here you can set the default languages and synching mode.
 
-The main space on this screen is filled with the list of recordings that have been made by users of the application. As you can see from the list in the image above, this includes an image of the speaker, and the date and duration of the recording. You can select a recording to listen to it or add commentary. This is explained in the [Playback][Playback] section below. 
+The main space on this screen is filled with the list of recordings that have been made by users of the application. As you can see from the list in the image above, this includes an image of the speaker, and the date and duration of the recording. You can select a recording to listen to it or add commentary. This is explained in the [playback](#Playback) section below. 
 
-
+<a name="Record"></a>
 Record
 -------
 
@@ -57,6 +57,7 @@ Once your recording is complete press the save button. This is the image of the 
 
 At the top you can listen back to the recording by pressing play. You can stop the recording by pressing the button again. You can move along the recording by dragging the blue dot along the timeline.
 
+<a name="Save"></a>
 ###Save a recording###
 
 To save a recording you must add at least one speaker. Do this by pressing on the user image. This will take you to your User page (discussed below). You can select one of the users already in your list, or create a new user (the process for this is discussed in the Users section below).You can also add more than one speaker.
@@ -76,7 +77,7 @@ Your recording will now appear in the list on the main screen, with the date, du
 
 To go back to the [Main screen](#Main) at any time press the Aikuma logo in the top left-hand corner of the screen.
 
-
+<a name="Playback"></a>
 Playback
 ---------
 ###Original recording###
@@ -85,13 +86,14 @@ When you select an original recording from the list on the Main screen you will 
 ![Listening to recording](/images/HowTo/ListenfromList.png)
 <p class="clear"/>
 
-If there are other images below the timeline as in the image above this means that there are commentaries on this original recording. You can listen to these by clicking on the picture. You can also access these commentaries via the main menu. Listening to commentaries is discussed in more detail [below][Play Commentary].
+If there are other images below the timeline as in the image above this means that there are commentaries on this original recording. You can listen to these by clicking on the picture. You can also access these commentaries via the main menu. Listening to commentaries is discussed in more detail [below][#PlayCommentary].
 
 ###Adding a Commentary###
 As well as listening to the recording you can choose to add a commentary. This could be involve respeaking the recording slower and more clearly, or to translating the recording into another language that you speak. You could also give additional information about the content of the recording. These recordings are useful for helping share you language with members of your community, or with other communities. 
 
-There are two ways to add a commentary. These are both listed on the bottom of the screen. The first is ["Thumb commentary"][Thumb Commentary], where you use the touch screen to move through the recording. The second is ["Voice-activated commentary"][Voice-activated Commentary] where you hold the phone to your ear and interrupt the recording with your voice. These two options are explained in more detail below.
+There are two ways to add a commentary. These are both listed on the bottom of the screen. The first is ["Thumb commentary"](#Thumb), where you use the touch screen to move through the recording. The second is ["Voice-activated commentary"](#Voice] where you hold the phone to your ear and interrupt the recording with your voice. These two options are explained in more detail below.
 
+<a name="Thumb"></a>
 ###Thumb Commentary###
 When you enter the Thumb commentary mode you will see a green playbutton on the left and a red record button on the right. Although you can use these with the phone lengthwise it is generally more comfortable to rotate the phone and use the bottons in the position shown in the image below. Use your thumbs to navigate these two buttons. 
 
@@ -100,8 +102,9 @@ When you enter the Thumb commentary mode you will see a green playbutton on the 
 
 Play a short section of the recording by holding down the green button. If you hold down the green button again you will hear that section of the recording again. When you are ready to add your commentary hold down the red button to record a translation, respeaking or commentary for that section. Repeat the listening to small segments and recording until the end of the recording. The press the save button. 
 
-The process for adding information about the saved recording is [the same as discussed above][Save a recording] for an original recording. Your recording will now appear in the list of recordings on the [Main screen](#Main).
+The process for adding information about the saved recording is [the same as discussed above](#Save) for an original recording. Your recording will now appear in the list of recordings on the [Main screen](#Main).
 
+<a name="Voice"></a>
 ###Voice-activated Commentary###
 The second way of adding commentary is to use the "Voice-activated commentary. When you enter this option a box will appear and fill with red or green. 
 
@@ -118,8 +121,9 @@ At the bottom of the screen is the voice sensitivity slider. When you start usin
 
 Now you can begin to make your recording. Hold the phone up to your ear and listen to the recording. At a convenient break start your translation, respeaking or commentary. The phone will recognise your voice input, stop the original recording and record your voice. When you stop talking the recording will go back a second or two and continue. Do this until the end of the recording, then press the save button. 
 
-The process for adding information about the saved recording is [the same as discussed above][Save a recording] for an original recording. Your recording will now appear in the list of recordings on the [Main screen](#Main).
+The process for adding information about the saved recording is [the same as discussed above](#Save) for an original recording. Your recording will now appear in the list of recordings on the [Main screen](#Main).
 
+<a name="PlayCommentary"></a>
 ###Play Commentary###
 You can select a commentary to play from the recording list on the [Main screen](#Main) or by selecting it in the playback screen for the original recording. 
 Playing back a commentary will include playing back the segments of the original recording and the commentary. 
@@ -133,6 +137,7 @@ The images of the people in the original recording are at the top of the screen,
 
 To go back to the [Main screen](#Main) at any time press the Aikuma logo in the top left-hand corner of the screen. If you are in the middle of a recording it will ask you if you want to discard it. If you do, press 'Discard', if you don't press 'Cancel' and save the recording before exiting. 
 
+<a name="Users"></a>
 Users 
 -----
 
@@ -148,7 +153,7 @@ To add a new user click on the large grey button with the user icon at the top o
 ![New User](/images/HowTo/NewUserEmpty.png)
 <p class="clear"/>
 
-Sherpa is already listed a language because it has been set as a default language, this is done in the [Settings][Setting default languages] screen (discussed below). To add a new user follow these steps:
+Sherpa is already listed a language because it has been set as a default language, this is done in the [Settings](#Language) screen (discussed below). To add a new user follow these steps:
 
 1. Add the person's name
 2. Take a photograph of the person using the mobile phone in the camera. You will be given the chance to accept the photo or reject it and try again.  
@@ -187,7 +192,7 @@ Help
 ----------
 In the current version of Aikuma the questionmark 'Help' button at the top of the Main screen takes you to the website. There will be a built in help screen in future versions of the application. 
 
-
+<a name="Settings"></a>
 Settings 
 ---------- 
 The settings page allows you to set the default languages. It also has setting for synchronising devices after they have been used. Below is a screenshot of the settings page.
@@ -195,6 +200,7 @@ The settings page allows you to set the default languages. It also has setting f
 ![Settings page](/images/HowTo/SettingsPage.png)  
 <p class="clear"/>
 
+<a name="Language"></a>
 ###Default languages###
 Pressing the "Default Languages" button will take you into the page where you can change this setting. You are able to set any number of defaul languages that are listed when you create a new user. This is useful if you are working in a community where the majority of people will all have at least one common language. 
 
