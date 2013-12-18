@@ -48,7 +48,6 @@ You can record in one of two different ways.
 
 To stop recording either press the pause button or lower the phone from your ear. You will be able to see how long the recording is at the top of the screen. You can continue the recording again using either of the two options. 
 
-If you decide you don't want to make the recording, of you've made a recording you do not want press either the back button or the Aikuma homepage button. This will take you back to the [Main screen](#Main screen).
 
 Once your recording is complete press the save button. This is the image of the disk above the recording button. This will take you into the save screen:
 
