@@ -181,7 +181,7 @@ To go back to the main screen at any time press the Aikuma logo in the top left-
 
 <a name="UserLanguage"></a>
 ###Setting A User's Language###
-You can attribute as many languages to each individual as necessary. You can either select languages from the list provided or add a language that does not appear in that list. The list of languages is taken from the [ISO 639-3 languages list](http://en.wikipedia.org/wiki/ISO_639-3), so your language may appear there, but spelt differently. 
+You can attribute as many languages to each individual as necessary. You can either select languages from the list provided or add a language that does not appear in that list. The list of languages is taken from the ISO 639-3 languages list, so your language may appear there, but spelt differently. 
 
 If you press the "Add language from list" button you will be taken into this full list of languages. This is very long, so use the search box at the top of the screen to find the language you want to select. Click on it and it will be added to the speaker's languages. Do this again for each language you want to add. 
 
@@ -215,7 +215,7 @@ Pressing the "Default Languages" button will take you into the page where you ca
 ![Default Languages](/images/HowTo/DefaultLanguages.png) 
 <p class="clear"/>
 
-To add a new default language, press the "Add language from list" button. This will bring up a list many languages (all languages with an [ISO 639-3 code]((http://en.wikipedia.org/wiki/ISO_639-3))), so use the search box at the top of the page to narrow down the options.
+To add a new default language, press the "Add language from list" button. This will bring up a list many languages (all languages with an ISO 639-3 code), so use the search box at the top of the page to narrow down the options.
 
 ![Selecting a Default Language](/images/HowTo/SettingsPageAddingLang.png)
 <p class="clear"/>
