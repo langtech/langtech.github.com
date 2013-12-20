@@ -107,7 +107,7 @@ When you enter the Thumb commentary mode you will see a green play button on the
 
 Play a short section of the recording by holding down the green button. If you hold down the green button again you will hear that section of the recording repeated. When you are ready to add your commentary hold down the red button to record a translation or respeaking for that section. Repeat listening to small segments and recording your commentary until the end of the original recording. The press the save button. 
 
-The process for adding information about the saved recording is [the same as discussed above](#Save) for an original recording. Your commentary will now appear in the list of recordings on the [main screen](#main).
+The process for adding information about the saved recording is [the same as discussed above](#Save) for an original recording. Your commentary will now appear in the list of recordings on the [main screen](#Main).
 
 <a name="Voice"></a>
 ###Voice-activated Commentary###
