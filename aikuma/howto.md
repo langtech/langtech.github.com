@@ -63,7 +63,7 @@ At the top you can listen back to the recording by pressing play. You can stop t
 <a name="Save"></a>
 ###Save a recording###
 
-To save a recording you must add at least one speaker. Do this by pressing on the user image. This will take you to the [user screen](#Users). You can select one of the users already in your list, or create a new user (this is explained [here](#Users)).You can add more than one speaker.
+To save a recording you must add at least one speaker. Do this by pressing on the user image. This will take you to the [user screen](#Users). You can select one of the users already in your list, or [create a new user](#Users).You can add more than one speaker.
 
 After you have added at least one speaker choose what languages are spoken in the recording. All of the languages listed for the person or persons you have added will appear in the list with ticks next to each one. Untick the languages that do not appear in the recording.
 
