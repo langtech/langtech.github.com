@@ -96,7 +96,7 @@ If there are other user pictures below the timeline as in the image above this m
 ###Adding a Commentary###
 As well as listening to the recording you can choose to add a commentary. This could involve respeaking the recording more clearly, or translating the recording into another language that you speak. You could also give additional information about the content of the recording. These recordings are useful for helping share you language with members of your community, or with other communities. 
 
-There are two ways to add a commentary. These are listed on the bottom of the screen. The first is ["Thumb commentary"](#Thumb), where you use butons on the screen to move through the recording. The second is ["Voice-activated commentary"](#Voice] where you hold the phone to your ear and interrupt the recording with your voice. These two options are explained in more detail below.
+There are two ways to add a commentary. These are listed on the bottom of the screen. The first is ["Thumb commentary"](#Thumb), where you use butons on the screen to move through the recording. The second is ["Voice-activated commentary"](#Voice) where you hold the phone to your ear and interrupt the recording with your voice. These two options are explained in more detail below.
 
 <a name="Thumb"></a>
 ###Thumb Commentary###
