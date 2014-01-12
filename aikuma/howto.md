@@ -51,7 +51,7 @@ You can record in one of two different ways.
 
 To stop recording either press the pause button or lower the phone from your ear. You will be able to see how long the recording is at the top of the screen. You can continue the recording again using either of the two options. 
 
-If you don't want to make a recording, of you've made a recording that you do not want to keep press either the back button or the Aikuma homepage button. This will take you back to the [main screen](#Main).
+If you don't want to make a recording, of you've made a recording that you do not want to keep press either the back button or the Aikuma homepage button. This will ask you to discard the recording and take you back to the [main screen](#Main).
 
 Once your recording is complete press the save button. This is the image of the disk above the recording button. This will take you into the save screen:
 
@@ -65,7 +65,7 @@ At the top you can listen back to the recording by pressing play. You can stop t
 
 To save a recording you must add at least one speaker. Do this by pressing on the user image. This will take you to the [user screen](#Users). You can select one of the users already in your list, or create a new user (this is explained [here](#Users)).You can add more than one speaker.
 
-After you have added at least one speaker choose what languages are spoken in the recording. All of the languages listed for the person or persons you have added will appear in the list with ticks next to each one. Untick the languages that do not appear in the recording.
+After you have added at least one speaker choose what languages are spoken in the recording. All of the languages listed for the person or persons you have added will appear in the list. Tick the languages that are in the recording.
 
 Next you need to add a description for your recording. Click on the 'description' section and type in a basic title, for example "Jackal and Crow" or "when the village got electricity". 
 
@@ -111,20 +111,14 @@ The process for adding information about the saved recording is [the same as dis
 
 <a name="Voice"></a>
 ###Voice-activated Commentary###
-The second way of adding commentary is to use the Voice-activated commentary. When you enter this option a box will appear and fill with red or green, or move between the two. 
-
-![Sensitivity Meter](/images/HowTo/Sensitivity.png)
-<p class="clear"/>
-
-This box will remain while the the phone testing how noisy the environment is, so that it can recognise your voice. When this process is completed you will then see this screen.
-
+The second way of adding commentary is to use the Voice-activated commentary. 
 
 ![Voice Screen](/images/HowTo/VoiceCommentsScreen.png)
 <p class="clear"/>
 
 At the bottom of the screen is the voice sensitivity slider. When you start using the voice-activated commentary you may find that the phone does not stop the recording when you speak, which means the sensitivity is set too low. You may find that it keeps stopping even when you are quiet, which means the sensitivity is set too high. The sensitivity meter should have done a pretty good job of figuring our the setting, but you may need to move the blue dot along the sliding scale to adjust it. Moving the blue dot to the left will make it less sensitive, and moving it to the right will make it more sensitive.
 
-Now you can begin to make your recording. Hold the phone up to your ear and listen to the recording. At a convenient break start your translation, respeaking or commentary. The phone will recognise your voice input, stop the original recording and record your voice. When you stop talking the recording will go back a second or two and continue. Do this until the end of the recording, then press the save button. 
+Now you can begin to make your recording. Hold the phone up to your ear and listen to the recording. At a convenient break start your translation, respeaking or commentary. The phone will recognise your voice input, stop the original recording and record your voice. When you stop talking the recording will go back a second or two and continue. Do this until you hear the beep that signals the end of the recording, then press the save button. 
 
 The process for adding information about the saved recording is [the same as discussed above](#Save) for an original recording. Your recording will now appear in the list of recordings on the [main screen](#Main).
 
@@ -197,7 +191,7 @@ To go back to the [main screen](#Main) at any time press the Aikuma logo in the 
 Help 
 ----------
 
-In the current version of Aikuma the question mark 'Help' button at the top of the main screen takes you to the website. There will be a built in help screen in future versions of the application. 
+In the current version of Aikuma the question mark 'Help' button at the top of the main screen brings to you to this page of the website. There will be a built in help screen in future versions of the application. 
 
 <a name="Settings"></a>
 Settings 
