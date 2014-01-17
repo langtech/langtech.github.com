@@ -7,7 +7,7 @@ css: aikuma
 
 
 
-This guide outlines how to use Aikuma (version 1.0.0-beta.13). The most current version can be
+This guide outlines how to use Aikuma (version 1.0.0-beta.15). The most current version can be
 [downloaded](https://play.google.com/store/apps/details?id=org.lp20.aikuma&amphl=en) from the Google Play store.
 
 
@@ -93,13 +93,13 @@ When you select an original recording from the list on the main screen you will 
 
 If there are other user pictures below the timeline as in the image above this means that there are commentaries on this original recording, including the code for the language the commentary is in. You can listen to these by clicking on the picture. You can also access these commentaries via the main menu. Listening to commentaries is discussed in more detail [below][#PlayCommentary].
 
-###Adding a Commentary###
+###Adding a commentary###
 As well as listening to the recording you can choose to add a commentary. This could involve respeaking the recording more clearly, or translating the recording into another language that you speak. You could also give additional information about the content of the recording. These recordings are useful for helping share you language with members of your community, or with other communities. 
 
 There are two ways to add a commentary. These are listed on the bottom of the screen. The first is ["Thumb commentary"](#Thumb), where you use butons on the screen to move through the recording. The second is ["Voice-activated commentary"](#Voice) where you hold the phone to your ear and interrupt the recording with your voice. These two options are explained in more detail below.
 
 <a name="Thumb"></a>
-###Thumb Commentary###
+###Thumb commentary###
 When you enter the Thumb commentary mode you will see a green play button on the left and a red record button on the right. Although you can use these with the phone lengthwise it is generally more comfortable to rotate the phone and use the bottons in the position shown in the image below. Use your thumbs to navigate these two buttons. 
 
 ![Thumb Commentary](/images/HowTo/ThumbComments.png)
@@ -110,20 +110,20 @@ Play a short section of the recording by holding down the green button. If you h
 The process for adding information about the saved recording is [the same as discussed above](#Save) for an original recording. Your commentary will now appear in the list of recordings on the [main screen](#main).
 
 <a name="Voice"></a>
-###Voice-activated Commentary###
+###Voice-activated commentary###
 The second way of adding commentary is to use the Voice-activated commentary. 
 
 ![Voice Screen](/images/HowTo/VoiceCommentsScreen.png)
 <p class="clear"/>
 
-At the bottom of the screen is the voice sensitivity slider. When you start using the voice-activated commentary you may find that the phone does not stop the recording when you speak, which means the sensitivity is set too low. You may find that it keeps stopping even when you are quiet, which means the sensitivity is set too high. The sensitivity meter should have done a pretty good job of figuring our the setting, but you may need to move the blue dot along the sliding scale to adjust it. Moving the blue dot to the left will make it less sensitive, and moving it to the right will make it more sensitive.
+At the bottom of the screen is the voice sensitivity slider. When you start using the voice-activated commentary you may find that the phone does not stop the recording when you speak, which means the sensitivity is set too low. You may find that it keeps stopping even when you are quiet, which means the sensitivity is set too high. You may need to move the blue dot along the sliding scale to adjust it. Moving the blue dot to the left will make it less sensitive, and moving it to the right will make it more sensitive. If you find a level that works well for you, it can be set as the [default](#Sensitivity) on the [settings](#Settings) page. 
 
 Now you can begin to make your recording. Hold the phone up to your ear and listen to the recording. At a convenient break start your translation, respeaking or commentary. The phone will recognise your voice input, stop the original recording and record your voice. When you stop talking the recording will go back a second or two and continue. Do this until you hear the beep that signals the end of the recording, then press the save button. 
 
 The process for adding information about the saved recording is [the same as discussed above](#Save) for an original recording. Your recording will now appear in the list of recordings on the [main screen](#Main).
 
 <a name="PlayCommentary"></a>
-###Play Commentary###
+###Play commentary###
 You can select a commentary to play from the recording list on the [main screen](#Main) or by in the playback screen for the original recording. 
 Playing back a commentary will include playing back the segments of the original recording as well as the commentary. 
 
@@ -174,7 +174,7 @@ You will notice that the tick only becomes bright green when information is adde
 To go back to the main screen at any time press the Aikuma logo in the top left-hand corner of the screen. If you are in the middle of creating a user it will ask you if you want to discard it. If you do, press 'Discard', if you don't press 'Cancel' and save the recording before exiting. 
 
 <a name="UserLanguage"></a>
-###Setting A User's Language###
+###Setting a user's language###
 You can attribute as many languages to each individual as necessary. You can either select languages from the list provided or add a language that does not appear in that list. The list of languages is taken from the [ISO 639-3 languages list](http://en.wikipedia.org/wiki/ISO_639-3), so your language may appear there, but spelt differently. 
 
 If you press the "Add language from list" button you will be taken into this full list of languages. This is very long, so use the search box at the top of the screen to find the language you want to select. Click on it and it will be added to the speaker's languages. Do this again for each language you want to add. 
@@ -197,10 +197,18 @@ In the current version of Aikuma the question mark 'Help' button at the top of t
 Settings 
 ---------- 
 
-The settings page allows you to set the default languages. It also has setting for synchronising the recordings on different devices. Below is a screenshot of the settings page.
+The settings page allows you to set the default languages and default recording sensitivity. It also has setting for synchronising the recordings on different devices, and will tell you information about the recordings that have been made. Below is a screenshot of the settings page, and each feature described in the order it appears on the screen.
 
 ![Settings page](/images/HowTo/SettingsPage.png)  
 <p class="clear"/>
+
+<a name="Information"></a>
+###Recording information###
+On the settings page you can see information about the recordings on that phone. This information includes:
+* Hours used: This is the number of hours of recordings already made, including both original recordings and commentaries. 
+* Hours available: This is the number of hours of free space left where you are storing the Aikuma recordings. This space is used by other applications on the phone as well, and so may be reduced.
+* Original recordings: This is the total number of original recordings currently on this device.
+* Commentaries: This is the total number of commentaries currently on this device. 
 
 <a name="Language"></a>
 ###Default languages###
@@ -244,12 +252,18 @@ If you have created a central server for the network you can type in the IP addr
 
 To go back to the [main screen](#Main) at any time press the Aikuma logo in the top left-hand corner of the screen.
 
+<a name="Sensitivity"></a>
+###Default sensitivity###
+This slider allows you to set the default sensitivity that will be used in the [voice-activated commentary](#Voice). You will still be able to change the sensitivity for each recording, but this will change the default point on the slider. 
+
 Updating Aikuma 
 ---------------
 
 If you have downloaded Aikuma through the Google Play Store you will be notified when a new version is available. We recommend you update to newer versions where possible, as this tutorial will always give information on how to use the most current version.
 
 When you download a new version it will ask you to delete the old version. This is absolutely fine to do. You will not lose any recordings. All recordings and users will be available when you open the new version of Aikuma. 
+
+You can see what version of Aikuma you are using on the [settings](#Settings) page. 
 
 Credits
 -------
