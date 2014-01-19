@@ -7,7 +7,7 @@ css: aikuma
 
 
 
-This guide outlines how to use Aikuma (version 1.0.0-beta.15). The most current version can be
+This guide outlines how to use Aikuma (version 1.0.0-beta.17). The most current version can be
 [downloaded](https://play.google.com/store/apps/details?id=org.lp20.aikuma&amphl=en) from the Google Play store.
 
 
@@ -30,6 +30,8 @@ There is more detail on each of these features in the sections below:
 * The gear will take you to the [settings](#Settings) screen. Here you can set the default languages and synching mode.
 
 The main space on this screen is filled with the list of recordings that have been made by users of the application. As you can see from the list in the image above, this includes an image of the speakers, and the date and duration of the recording, as well as a title. You can select a recording to listen to it or add commentary. This is explained in the [playback](#Playback) section below. 
+
+Below the list of recordings is an "import audio file" button. This allows you to [load existing recordings](#Import) into Aikuma for people to listen to and provide commentaries. This is optional, and discussed at the bottom of this page. 
 
 
 <a name="Record"></a>
@@ -78,7 +80,7 @@ Pressing the large green tick at the bottom of the screen will save the recordin
 
 Your recording will now appear in the list on the main screen, with the date, duration, description and the image of the people in the recording.
 
-To go back to the [main screen](#Main) at any time press the Aikuma logo in the top left-hand corner of the screen.
+To go back to the [main screen](#Main) at any time press the Aikuma logo in the top left-hand corner of the screen. Doing this at some points in the process will mean that you lose your recording. 
 
 
 <a name="Playback"></a>
@@ -255,6 +257,17 @@ To go back to the [main screen](#Main) at any time press the Aikuma logo in the 
 <a name="Sensitivity"></a>
 ###Default sensitivity###
 This slider allows you to set the default sensitivity that will be used in the [voice-activated commentary](#Voice). You will still be able to change the sensitivity for each recording, but this will change the default point on the slider. 
+
+<a name="Import"></a>
+Importing existing recordings
+---------
+At the bottom of the home screen is an "import audio file" button that allows you to load any existing .WAV recordings onto the handset for people to listen to and provide commentaries for. Place all of the files you want to upload in a folder that is easy for you to find on the phone. In Aikuma press the "import audio file" button, this will bring up the file directory.  Navigate to the folder you have put the files in, and choose the file you want to upload.
+
+![Locate File](/images/HowTo/LocateFile.png)
+<p class="clear"/>
+
+When you've imported the audio file it will take you to the page where you can [save](#Save) the recording by adding the relevant information. It will then appear in your list of recordings.
+
 
 Updating Aikuma 
 ---------------
